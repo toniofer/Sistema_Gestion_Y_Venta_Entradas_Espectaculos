@@ -1,4 +1,4 @@
-# Sistema_Gestion_Y_Venta_Entradas_Espectaculos
+# Sistema_Gestion_y_Venta_Entradas_Espectaculos
 Sistema de gestión y venta de entradas de espectáculos desarrollado en Genexus 18 (Proyecto final del taller de Genexus ORT 2023)
 
 
