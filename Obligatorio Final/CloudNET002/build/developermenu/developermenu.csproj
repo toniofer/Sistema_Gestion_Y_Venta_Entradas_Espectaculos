@@ -1,0 +1,112 @@
+<Project Sdk="Microsoft.NET.Sdk" ToolsVersion="Current">
+	
+	
+	<PropertyGroup>
+		<AssemblyName>developermenu</AssemblyName>
+		<TargetFramework>$(TargetFramework)</TargetFramework>
+		<OutputType>Library</OutputType>
+		<GenerateDependencyFile>false</GenerateDependencyFile>
+		<CopyLocalLockFileAssemblies>false</CopyLocalLockFileAssemblies>
+		<PostgresqlSupport>false</PostgresqlSupport>
+		<OfficeSupport>false</OfficeSupport>
+		<MailSupport>false</MailSupport>
+	</PropertyGroup>
+	
+	<ItemGroup>
+		<ProjectReference Include=".\..\producto\producto.csproj" />
+		<ProjectReference Include=".\..\invitacion\invitacion.csproj" />
+		<ProjectReference Include=".\..\tipoespectaculo_bc\tipoespectaculo_bc.csproj" />
+		<ProjectReference Include=".\..\tipoespectaculo\tipoespectaculo.csproj" />
+		<ProjectReference Include=".\..\pase\pase.csproj" />
+		<ProjectReference Include=".\..\entrada\entrada.csproj" />
+		<ProjectReference Include=".\..\espectaculo\espectaculo.csproj" />
+		<ProjectReference Include=".\..\lugar\lugar.csproj" />
+		<ProjectReference Include=".\..\pais\pais.csproj" />
+		<ProjectReference Include=".\..\gx0030\gx0030.csproj" />
+		<ProjectReference Include=".\..\gx00a0\gx00a0.csproj" />
+		<ProjectReference Include=".\..\gx0080\gx0080.csproj" />
+		<ProjectReference Include=".\..\gx0051\gx0051.csproj" />
+		<ProjectReference Include=".\..\gx0041\gx0041.csproj" />
+		<ProjectReference Include=".\..\gx0020\gx0020.csproj" />
+		<ProjectReference Include=".\..\gx0010\gx0010.csproj" />
+		<ProjectReference Include=".\..\pasesporespectaculoporpais\pasesporespectaculoporpais.csproj" />
+		<ProjectReference Include=".\..\aumentarprecioentradas\aumentarprecioentradas.csproj" />
+		<ProjectReference Include=".\..\espectaculosportipoespectaculo\espectaculosportipoespectaculo.csproj" />
+		<ProjectReference Include=".\..\conciertosporfecha\conciertosporfecha.csproj" />
+		<ProjectReference Include=".\..\pasegeneral\pasegeneral.csproj" />
+		<ProjectReference Include=".\..\espectaculoproductowc\espectaculoproductowc.csproj" />
+		<ProjectReference Include=".\..\espectaculoinvitacionwc\espectaculoinvitacionwc.csproj" />
+		<ProjectReference Include=".\..\espectaculosectorwc\espectaculosectorwc.csproj" />
+		<ProjectReference Include=".\..\espectaculogeneral\espectaculogeneral.csproj" />
+		<ProjectReference Include=".\..\viewpase\viewpase.csproj" />
+		<ProjectReference Include=".\..\viewespectaculo\viewespectaculo.csproj" />
+		<ProjectReference Include=".\..\invitaciongeneral\invitaciongeneral.csproj" />
+		<ProjectReference Include=".\..\lugarespectaculowc\lugarespectaculowc.csproj" />
+		<ProjectReference Include=".\..\lugargeneral\lugargeneral.csproj" />
+		<ProjectReference Include=".\..\tipoespectaculoespectaculowc\tipoespectaculoespectaculowc.csproj" />
+		<ProjectReference Include=".\..\tipoespectaculogeneral\tipoespectaculogeneral.csproj" />
+		<ProjectReference Include=".\..\entradageneral\entradageneral.csproj" />
+		<ProjectReference Include=".\..\paispasewc\paispasewc.csproj" />
+		<ProjectReference Include=".\..\paisentradawc\paisentradawc.csproj" />
+		<ProjectReference Include=".\..\paisespectaculowc\paisespectaculowc.csproj" />
+		<ProjectReference Include=".\..\paislugarwc\paislugarwc.csproj" />
+		<ProjectReference Include=".\..\paisgeneral\paisgeneral.csproj" />
+		<ProjectReference Include=".\..\wwinvitacion\wwinvitacion.csproj" />
+		<ProjectReference Include=".\..\wwtipoespectaculo\wwtipoespectaculo.csproj" />
+		<ProjectReference Include=".\..\wwpase\wwpase.csproj" />
+		<ProjectReference Include=".\..\wwentrada\wwentrada.csproj" />
+		<ProjectReference Include=".\..\wwespectaculo\wwespectaculo.csproj" />
+		<ProjectReference Include=".\..\wwespectaculo\wwespectaculo.csproj" />
+		<ProjectReference Include=".\..\wwlugar\wwlugar.csproj" />
+		<ProjectReference Include=".\..\viewinvitacion\viewinvitacion.csproj" />
+		<ProjectReference Include=".\..\viewlugar\viewlugar.csproj" />
+		<ProjectReference Include=".\..\viewtipoespectaculo\viewtipoespectaculo.csproj" />
+		<ProjectReference Include=".\..\viewentrada\viewentrada.csproj" />
+		<ProjectReference Include=".\..\wwpais\wwpais.csproj" />
+		<ProjectReference Include=".\..\viewpais\viewpais.csproj" />
+		<ProjectReference Include=".\..\general.security.notauthorized\general.security.notauthorized.csproj" />
+		<ProjectReference Include=".\..\general.ui.masterprompt\general.ui.masterprompt.csproj" />
+		<ProjectReference Include=".\..\general.ui.masterunanimosidebar\general.ui.masterunanimosidebar.csproj" />
+		<ProjectReference Include=".\..\alistadopasesporpaisyespectaculo\alistadopasesporpaisyespectaculo.csproj" />
+		<ProjectReference Include=".\..\alistadopasesporpaisyespectaculo\alistadopasesporpaisyespectaculo.csproj" />
+		<ProjectReference Include=".\..\alistadoconciertosporfecha\alistadoconciertosporfecha.csproj" />
+		<ProjectReference Include=".\..\alistadoconciertosporfecha\alistadoconciertosporfecha.csproj" />
+		<ProjectReference Include=".\..\alistadoespectaculosgeneral\alistadoespectaculosgeneral.csproj" />
+		<ProjectReference Include=".\..\alistadoespectaculosgeneral\alistadoespectaculosgeneral.csproj" />
+		<ProjectReference Include=".\..\general.services.directionsservicerequest\general.services.directionsservicerequest.csproj" />
+		<ProjectReference Include=".\..\general.services.gxonpendingeventfailed\general.services.gxonpendingeventfailed.csproj" />
+		<ProjectReference Include=".\..\general.services.gxbeforeeventreplicator\general.services.gxbeforeeventreplicator.csproj" />
+		<ProjectReference Include=".\..\general.services.gxaftereventreplicator\general.services.gxaftereventreplicator.csproj" />
+		<ProjectReference Include=".\..\general.services.anotificationsregistrationhandler\general.services.anotificationsregistrationhandler.csproj" />
+		<ProjectReference Include=".\..\general.services.anotificationsregistrationhandler\general.services.anotificationsregistrationhandler.csproj" />
+		<ProjectReference Include=".\..\aemitirinvitacion\aemitirinvitacion.csproj" />
+		<ProjectReference Include=".\..\aemitirinvitacion\aemitirinvitacion.csproj" />
+		<ProjectReference Include=".\..\aemitirticket\aemitirticket.csproj" />
+		<ProjectReference Include=".\..\aemitirticket\aemitirticket.csproj" />
+		<ProjectReference Include=".\..\alistadoespectaculosportipo\alistadoespectaculosportipo.csproj" />
+		<ProjectReference Include=".\..\alistadoespectaculosportipo\alistadoespectaculosportipo.csproj" />
+		<ProjectReference Include=".\..\atipoespectaculo_dataprovider\atipoespectaculo_dataprovider.csproj" />
+		<ProjectReference Include=".\..\atipoespectaculo_dataprovider\atipoespectaculo_dataprovider.csproj" />
+		<ProjectReference Include=".\..\alugar_dataprovider\alugar_dataprovider.csproj" />
+		<ProjectReference Include=".\..\apais_dataprovider\apais_dataprovider.csproj" />
+		<ProjectReference Include=".\..\GeneXus.Programs.Common\GeneXus.Programs.Common.csproj" />
+
+	</ItemGroup>
+
+	<ItemGroup>
+		<Reference Include="GeneXus.dll" > 
+			<HintPath>$(WebBinDirectory)\GeneXus.dll</HintPath>
+		</Reference>
+
+
+	</ItemGroup>
+
+	<ItemGroup>
+
+	</ItemGroup>
+	<ItemGroup Condition="'$(PostgresqlSupport)'=='true'">
+		<PackageReference Include="Npgsql" Version="3.2.7" PrivateAssets="All"/>
+	</ItemGroup>
+
+	<Import Project="..\DotNetCoreBaseProject.targets"/>	
+</Project>

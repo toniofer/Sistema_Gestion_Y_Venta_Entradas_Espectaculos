@@ -1,0 +1,10 @@
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\web\bin\wwinvitacion.dll
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\web\bin\wwinvitacion.pdb
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\wwinvitacion\obj\Release\net6.0\wwinvitacion.csproj.AssemblyReference.cache
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\wwinvitacion\obj\Release\net6.0\wwinvitacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\wwinvitacion\obj\Release\net6.0\wwinvitacion.csproj.CoreCompileInputs.cache
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\wwinvitacion\obj\Release\net6.0\wwinvitacion.csproj.CopyComplete
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\wwinvitacion\obj\Release\net6.0\wwinvitacion.dll
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\wwinvitacion\obj\Release\net6.0\refint\wwinvitacion.dll
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\wwinvitacion\obj\Release\net6.0\wwinvitacion.pdb
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\wwinvitacion\obj\Release\net6.0\ref\wwinvitacion.dll

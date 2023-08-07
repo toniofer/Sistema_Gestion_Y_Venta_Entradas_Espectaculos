@@ -1,0 +1,9 @@
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\web\bin\Reorganization.dll
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\web\bin\Reorganization.pdb
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\reorganization\obj\Release\net6.0\reorganization.csproj.AssemblyReference.cache
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\reorganization\obj\Release\net6.0\reorganization.GeneratedMSBuildEditorConfig.editorconfig
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\reorganization\obj\Release\net6.0\reorganization.csproj.CoreCompileInputs.cache
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\reorganization\obj\Release\net6.0\Reorganization.dll
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\reorganization\obj\Release\net6.0\refint\Reorganization.dll
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\reorganization\obj\Release\net6.0\Reorganization.pdb
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\reorganization\obj\Release\net6.0\ref\Reorganization.dll

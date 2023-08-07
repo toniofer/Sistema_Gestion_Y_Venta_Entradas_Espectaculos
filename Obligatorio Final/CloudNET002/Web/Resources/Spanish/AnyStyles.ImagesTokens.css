@@ -1,0 +1,56 @@
+@layer AnyStylesImagesTokens {
+:root
+{
+	--GX-Image_selectRow : url(../selectRow.png);
+	--GX-Image_logo2 : url(../logo2.png);
+	--GX-Image_PageFirst : url(PageFirst.gif);
+	--GX-Image_PageLast : url(PageLast.gif);
+	--GX-Image_PageNext : url(PageNext.gif);
+	--GX-Image_PagePrevious : url(PagePrevious.gif);
+	--GX-Image_BanderaBrasil : url(../BanderaBrasil.png);
+	--GX-Image_BanderaArgentina : url(../BanderaArgentina.jpg);
+	--GX-Image_BanderaChile : url(../BanderaChile.png);
+	--GX-Image_BanderaEspana : url(../BanderaEspana.png);
+	--GX-Image_BanderaMexico : url(../BanderaMexico.png);
+	--GX-Image_BanderaUruguay : url(../BanderaUruguay.png);
+	--GX-Image_BanderaItalia : url(../BanderaItalia.png);
+	--GX-Image_BanderaFrancia : url(../BanderaFrancia.png);
+	--GX-Image_BanderaReinoUnido : url(../BanderaReinoUnido.png);
+	--GX-Image_AntelArena : url(../AntelArena.jpg);
+	--GX-Image_AuditorioNacionalDeMexico : url(../AuditorioNacionalDeMexico.jpg);
+	--GX-Image_EstadioCentenario : url(../EstadioCentenario.jpg);
+	--GX-Image_EstadioNacionalDeChile : url(../EstadioNacionalDeChile.jpg);
+	--GX-Image_LunaPark : url(../LunaPark.png);
+	--GX-Image_MunicipalDeSantiago : url(../MunicipalDeSantiago.JPG);
+	--GX-Image_Sodre : url(../Sodre.jpg);
+	--GX-Image_TeatroColon : url(../TeatroColon.jpg);
+	--GX-Image_TeatroSaoPedro : url(../TeatroSaoPedro.jpg);
+	--GX-Image_TeatroSolis : url(../TeatroSolis.jpg);
+}
+
+.GX_Image_selectRow_Class{content: var(--GX-Image_selectRow);}
+.GX_Image_logo2_Class{content: var(--GX-Image_logo2);}
+.GX_Image_PageFirst_Class{content: var(--GX-Image_PageFirst);}
+.GX_Image_PageLast_Class{content: var(--GX-Image_PageLast);}
+.GX_Image_PageNext_Class{content: var(--GX-Image_PageNext);}
+.GX_Image_PagePrevious_Class{content: var(--GX-Image_PagePrevious);}
+.GX_Image_BanderaBrasil_Class{content: var(--GX-Image_BanderaBrasil);}
+.GX_Image_BanderaArgentina_Class{content: var(--GX-Image_BanderaArgentina);}
+.GX_Image_BanderaChile_Class{content: var(--GX-Image_BanderaChile);}
+.GX_Image_BanderaEspana_Class{content: var(--GX-Image_BanderaEspana);}
+.GX_Image_BanderaMexico_Class{content: var(--GX-Image_BanderaMexico);}
+.GX_Image_BanderaUruguay_Class{content: var(--GX-Image_BanderaUruguay);}
+.GX_Image_BanderaItalia_Class{content: var(--GX-Image_BanderaItalia);}
+.GX_Image_BanderaFrancia_Class{content: var(--GX-Image_BanderaFrancia);}
+.GX_Image_BanderaReinoUnido_Class{content: var(--GX-Image_BanderaReinoUnido);}
+.GX_Image_AntelArena_Class{content: var(--GX-Image_AntelArena);}
+.GX_Image_AuditorioNacionalDeMexico_Class{content: var(--GX-Image_AuditorioNacionalDeMexico);}
+.GX_Image_EstadioCentenario_Class{content: var(--GX-Image_EstadioCentenario);}
+.GX_Image_EstadioNacionalDeChile_Class{content: var(--GX-Image_EstadioNacionalDeChile);}
+.GX_Image_LunaPark_Class{content: var(--GX-Image_LunaPark);}
+.GX_Image_MunicipalDeSantiago_Class{content: var(--GX-Image_MunicipalDeSantiago);}
+.GX_Image_Sodre_Class{content: var(--GX-Image_Sodre);}
+.GX_Image_TeatroColon_Class{content: var(--GX-Image_TeatroColon);}
+.GX_Image_TeatroSaoPedro_Class{content: var(--GX-Image_TeatroSaoPedro);}
+.GX_Image_TeatroSolis_Class{content: var(--GX-Image_TeatroSolis);}
+}

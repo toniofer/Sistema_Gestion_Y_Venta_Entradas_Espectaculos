@@ -1,0 +1,10 @@
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\web\bin\espectaculoinvitacionwc.dll
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\web\bin\espectaculoinvitacionwc.pdb
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\espectaculoinvitacionwc\obj\Release\net6.0\espectaculoinvitacionwc.csproj.AssemblyReference.cache
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\espectaculoinvitacionwc\obj\Release\net6.0\espectaculoinvitacionwc.GeneratedMSBuildEditorConfig.editorconfig
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\espectaculoinvitacionwc\obj\Release\net6.0\espectaculoinvitacionwc.csproj.CoreCompileInputs.cache
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\espectaculoinvitacionwc\obj\Release\net6.0\espectaculoinvitacionwc.csproj.CopyComplete
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\espectaculoinvitacionwc\obj\Release\net6.0\espectaculoinvitacionwc.dll
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\espectaculoinvitacionwc\obj\Release\net6.0\refint\espectaculoinvitacionwc.dll
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\espectaculoinvitacionwc\obj\Release\net6.0\espectaculoinvitacionwc.pdb
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\espectaculoinvitacionwc\obj\Release\net6.0\ref\espectaculoinvitacionwc.dll

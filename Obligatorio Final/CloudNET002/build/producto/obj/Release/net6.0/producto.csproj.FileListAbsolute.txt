@@ -1,0 +1,10 @@
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\web\bin\producto.dll
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\web\bin\producto.pdb
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\producto\obj\Release\net6.0\producto.csproj.AssemblyReference.cache
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\producto\obj\Release\net6.0\producto.GeneratedMSBuildEditorConfig.editorconfig
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\producto\obj\Release\net6.0\producto.csproj.CoreCompileInputs.cache
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\producto\obj\Release\net6.0\producto.csproj.CopyComplete
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\producto\obj\Release\net6.0\producto.dll
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\producto\obj\Release\net6.0\refint\producto.dll
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\producto\obj\Release\net6.0\producto.pdb
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\producto\obj\Release\net6.0\ref\producto.dll

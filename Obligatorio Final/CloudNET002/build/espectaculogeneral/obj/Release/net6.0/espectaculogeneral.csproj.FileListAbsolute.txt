@@ -1,0 +1,10 @@
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\web\bin\espectaculogeneral.dll
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\web\bin\espectaculogeneral.pdb
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\espectaculogeneral\obj\Release\net6.0\espectaculogeneral.csproj.AssemblyReference.cache
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\espectaculogeneral\obj\Release\net6.0\espectaculogeneral.GeneratedMSBuildEditorConfig.editorconfig
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\espectaculogeneral\obj\Release\net6.0\espectaculogeneral.csproj.CoreCompileInputs.cache
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\espectaculogeneral\obj\Release\net6.0\espectaculogeneral.csproj.CopyComplete
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\espectaculogeneral\obj\Release\net6.0\espectaculogeneral.dll
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\espectaculogeneral\obj\Release\net6.0\refint\espectaculogeneral.dll
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\espectaculogeneral\obj\Release\net6.0\espectaculogeneral.pdb
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\espectaculogeneral\obj\Release\net6.0\ref\espectaculogeneral.dll

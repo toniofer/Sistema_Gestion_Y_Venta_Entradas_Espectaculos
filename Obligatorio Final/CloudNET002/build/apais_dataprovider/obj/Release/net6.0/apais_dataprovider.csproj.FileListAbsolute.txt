@@ -1,0 +1,10 @@
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\web\bin\apais_dataprovider.dll
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\web\bin\apais_dataprovider.pdb
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\apais_dataprovider\obj\Release\net6.0\apais_dataprovider.csproj.AssemblyReference.cache
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\apais_dataprovider\obj\Release\net6.0\apais_dataprovider.GeneratedMSBuildEditorConfig.editorconfig
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\apais_dataprovider\obj\Release\net6.0\apais_dataprovider.csproj.CoreCompileInputs.cache
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\apais_dataprovider\obj\Release\net6.0\apais_dataprovider.csproj.CopyComplete
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\apais_dataprovider\obj\Release\net6.0\apais_dataprovider.dll
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\apais_dataprovider\obj\Release\net6.0\refint\apais_dataprovider.dll
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\apais_dataprovider\obj\Release\net6.0\apais_dataprovider.pdb
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\apais_dataprovider\obj\Release\net6.0\ref\apais_dataprovider.dll

@@ -1,0 +1,10 @@
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\web\bin\pasesporespectaculoporpais.dll
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\web\bin\pasesporespectaculoporpais.pdb
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\pasesporespectaculoporpais\obj\Release\net6.0\pasesporespectaculoporpais.csproj.AssemblyReference.cache
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\pasesporespectaculoporpais\obj\Release\net6.0\pasesporespectaculoporpais.GeneratedMSBuildEditorConfig.editorconfig
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\pasesporespectaculoporpais\obj\Release\net6.0\pasesporespectaculoporpais.csproj.CoreCompileInputs.cache
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\pasesporespectaculoporpais\obj\Release\net6.0\pasesporespectaculoporpais.csproj.CopyComplete
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\pasesporespectaculoporpais\obj\Release\net6.0\pasesporespectaculoporpais.dll
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\pasesporespectaculoporpais\obj\Release\net6.0\refint\pasesporespectaculoporpais.dll
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\pasesporespectaculoporpais\obj\Release\net6.0\pasesporespectaculoporpais.pdb
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\pasesporespectaculoporpais\obj\Release\net6.0\ref\pasesporespectaculoporpais.dll

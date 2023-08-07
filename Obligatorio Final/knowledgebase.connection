@@ -1,0 +1,10 @@
+﻿<ConnectionInformation>
+	<DBName>GX_KB_Obligatorio Final</DBName>
+	<IntegratedSecurity>True</IntegratedSecurity>
+	<ServerInstance>(LocalDB)\MSSQLLocalDB</ServerInstance>
+	<CreateDbInKbFolder>True</CreateDbInKbFolder>
+	<Directory>C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final</Directory>
+	<DataFile>GX_KB_Obligatorio Final.mdf</DataFile>
+	<LogFile>GX_KB_Obligatorio Final_log.ldf</LogFile>
+	<HostName>DESKTOP-T9UJHTL</HostName>
+</ConnectionInformation>

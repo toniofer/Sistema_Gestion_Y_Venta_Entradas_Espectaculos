@@ -1,0 +1,47 @@
+ 
+spec_i([ sdt,[ 0,6,0 ],'TipoEspectaculo','TipoEspectaculo',0,spa,'18_0_3-171579' ]).
+ 
+struct_dt_i([ 0,6,0 ],name,'TipoEspectaculo').
+struct_dt_i([ 0,6,0 ],namespace,'ObligatorioFinal').
+struct_dt_i([ 0,6,0 ],significantName,'TipoEspectaculo').
+struct_dt_i([ 0,6,0 ],'ObjName','TipoEspectaculo').
+struct_dt_i([ 0,6,0 ],'ObjDesc','Tipo Espectaculo').
+struct_dt_i([ 0,6,0 ],'ExternalName','TipoEspectaculo').
+struct_dt_i([ 0,6,0 ],'ExternalNamespace','ObligatorioFinal').
+struct_dt_i([ 0,6,0 ],key,[ 6 ]).
+struct_dt_i([ 0,6,0 ],lvl,8).
+struct_dt_i([ 0,6,0 ],fullname,'TipoEspectaculo').
+ 
+struct_dt_elem_i([ 0,6,0 ],1,name,'Tipoespectaculoid').
+struct_dt_elem_i([ 0,6,0 ],1,camelname,'TipoEspectaculoId').
+struct_dt_elem_i([ 0,6,0 ],1,basedon,94).
+struct_dt_elem_i([ 0,6,0 ],1,length,4).
+struct_dt_elem_i([ 0,6,0 ],1,decimals,0).
+struct_dt_elem_i([ 0,6,0 ],1,sign,0).
+struct_dt_elem_i([ 0,6,0 ],1,type,[ 4,4,0 ]).
+struct_dt_elem_i([ 0,6,0 ],1,pic,'ZZZ9').
+struct_dt_elem_i([ 0,6,0 ],1,collection,'False').
+struct_dt_elem_i([ 0,6,0 ],1,attributeid,'6').
+struct_dt_elem_i([ 0,6,0 ],1,'ExternalName','TipoEspectaculoId').
+struct_dt_elem_i([ 0,6,0 ],1,'ExternalNamespace','ObligatorioFinal').
+struct_dt_elem_i([ 0,6,0 ],2,name,'Tipoespectaculonombre').
+struct_dt_elem_i([ 0,6,0 ],2,camelname,'TipoEspectaculoNombre').
+struct_dt_elem_i([ 0,6,0 ],2,basedon,95).
+struct_dt_elem_i([ 0,6,0 ],2,length,60).
+struct_dt_elem_i([ 0,6,0 ],2,decimals,0).
+struct_dt_elem_i([ 0,6,0 ],2,type,[ 5,60,0 ]).
+struct_dt_elem_i([ 0,6,0 ],2,pic,'').
+struct_dt_elem_i([ 0,6,0 ],2,collection,'False').
+struct_dt_elem_i([ 0,6,0 ],2,attributeid,'16').
+struct_dt_elem_i([ 0,6,0 ],2,'ExternalName','TipoEspectaculoNombre').
+struct_dt_elem_i([ 0,6,0 ],2,'ExternalNamespace','ObligatorioFinal').
+ 
+ 
+ 
+ 
+ 
+ 
+module_info_i('GeneXus\Common','CSHARP_NAME_SPACE','GeneXus.Core').
+module_info_i('GeneXus\Common','AssemblyName','GeneXus.dll').
+module_info_i('GeneXus','CSHARP_NAME_SPACE','GeneXus.Core').
+module_info_i('GeneXus','AssemblyName','GeneXus.dll').

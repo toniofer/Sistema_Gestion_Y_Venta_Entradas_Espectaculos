@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="59df5ba8-3e6c-4430-8fdf-f6752e0520de">
+  <Table name="Espectaculo" />
+  <Table name="TipoEspectaculo" />
+</Dependencies>

@@ -1,0 +1,36 @@
+current_obj_i(2,proc,24).
+ 
+current_guid('816bcf89-f02f-4d9c-9979-8e63b2665471').
+ 
+ 
+ 
+is_webproc_i(alistadoconciertosporfecha).
+ 
+ 
+is_pdf_i.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ij_main_object(alistadoconciertosporfecha,'Listado Conciertos Por Fecha','','""','HTTP',default).
+ 
+ 
+ 
+ 
+ij_object_dependency(alistadoconciertosporfecha,[],[],[],24).
+ 
+ 
+obj_parms_i([ 'DateTime aP0_FechaConcierto' ],[ [ 'Fechaconcierto',in ] ]).
+ 
+ 
+ 
+ 
+ 
+ 

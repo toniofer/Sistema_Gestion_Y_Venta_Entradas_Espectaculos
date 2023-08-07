@@ -1,0 +1,10 @@
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\web\bin\paisespectaculowc.dll
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\web\bin\paisespectaculowc.pdb
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\paisespectaculowc\obj\Release\net6.0\paisespectaculowc.csproj.AssemblyReference.cache
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\paisespectaculowc\obj\Release\net6.0\paisespectaculowc.GeneratedMSBuildEditorConfig.editorconfig
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\paisespectaculowc\obj\Release\net6.0\paisespectaculowc.csproj.CoreCompileInputs.cache
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\paisespectaculowc\obj\Release\net6.0\paisespectaculowc.csproj.CopyComplete
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\paisespectaculowc\obj\Release\net6.0\paisespectaculowc.dll
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\paisespectaculowc\obj\Release\net6.0\refint\paisespectaculowc.dll
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\paisespectaculowc\obj\Release\net6.0\paisespectaculowc.pdb
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\paisespectaculowc\obj\Release\net6.0\ref\paisespectaculowc.dll

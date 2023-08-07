@@ -1,0 +1,76 @@
+<?xml-stylesheet type='text/xsl' href='prgs.xsl'?><Objects>
+  <Charset>UTF-8</Charset>
+  <Path>file:///C:/Program Files (x86)/GeneXus/GeneXus18Trial/</Path>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Producto</ObjName>
+    <ObjDesc>Producto</ObjDesc>
+    <ObjLink>producto.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>WWPais</ObjName>
+    <ObjDesc>Work With Pais</ObjDesc>
+    <ObjLink>wwpais.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>WWLugar</ObjName>
+    <ObjDesc>Work With Lugar</ObjDesc>
+    <ObjLink>wwlugar.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>WWEspectaculo</ObjName>
+    <ObjDesc>Work With Espectaculo</ObjDesc>
+    <ObjLink>wwespectaculo.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>WWEntrada</ObjName>
+    <ObjDesc>Work With Entrada</ObjDesc>
+    <ObjLink>wwentrada.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>WWPase</ObjName>
+    <ObjDesc>Pases</ObjDesc>
+    <ObjLink>wwpase.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>WWTipoEspectaculo</ObjName>
+    <ObjDesc>Work With Tipo Espectaculo</ObjDesc>
+    <ObjLink>wwtipoespectaculo.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>WWInvitacion</ObjName>
+    <ObjDesc>Work With Invitacion</ObjDesc>
+    <ObjLink>wwinvitacion.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>ConciertosPorFecha</ObjName>
+    <ObjDesc>Conciertos Por Fecha</ObjDesc>
+    <ObjLink>conciertosporfecha.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>EspectaculosPorTipoEspectaculo</ObjName>
+    <ObjDesc>Espectaculos Por Tipo Espectaculo</ObjDesc>
+    <ObjLink>espectaculosportipoespectaculo.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>AumentarPrecioEntradas</ObjName>
+    <ObjDesc>Aumentar Precio Entradas</ObjDesc>
+    <ObjLink>aumentarprecioentradas.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>PasesPorEspectaculoPorPais</ObjName>
+    <ObjDesc>Pases Por Espectaculo Por Pais</ObjDesc>
+    <ObjLink>pasesporespectaculoporpais.aspx</ObjLink>
+  </Object>
+</Objects>

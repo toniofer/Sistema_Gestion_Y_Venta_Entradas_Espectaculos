@@ -1,0 +1,36 @@
+current_obj_i(2,proc,27).
+ 
+current_guid('0a2e83cd-8f21-4807-a5a0-70228ee9dc4c').
+ 
+ 
+ 
+is_webproc_i(alistadopasesporpaisyespectaculo).
+ 
+ 
+is_pdf_i.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ij_main_object(alistadopasesporpaisyespectaculo,'Listado Pases Por Pais YEspectaculo','','""','HTTP',default).
+ 
+ 
+ 
+ 
+ij_object_dependency(alistadopasesporpaisyespectaculo,[],[],[],27).
+ 
+ 
+obj_parms_i([ 'short aP0_EspectaculoId' ],[ [ 'Espectaculoid',in ] ]).
+ 
+ 
+ 
+ 
+ 
+ 

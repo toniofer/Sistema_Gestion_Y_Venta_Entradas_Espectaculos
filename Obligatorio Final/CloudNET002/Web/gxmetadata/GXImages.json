@@ -1,0 +1,34 @@
+{ 
+    "Resources" : [ { 
+        "IsDefault" : true,
+        "ResourceFile" : "Images_DEFAULT.json"
+    }, { 
+        "Language" : "Spanish",
+        "Theme" : "GeneXusUnanimo.UnanimoWeb",
+        "ResourceFile" : "Images_Spanish_GeneXusUnanimo_UnanimoWeb.json"
+    }, { 
+        "Language" : "Spanish",
+        "Theme" : "GeneXusUnanimo.Unanimo",
+        "ResourceFile" : "Images_Spanish_GeneXusUnanimo_Unanimo.json"
+    }, { 
+        "Language" : "Spanish",
+        "Theme" : "GeneXusUnanimo.UnanimoControls",
+        "ResourceFile" : "Images_Spanish_GeneXusUnanimo_UnanimoControls.json"
+    }, { 
+        "Language" : "Spanish",
+        "Theme" : "GeneXusUnanimo.UnanimoMobile",
+        "ResourceFile" : "Images_Spanish_GeneXusUnanimo_UnanimoMobile.json"
+    }, { 
+        "Language" : "Spanish",
+        "Theme" : "GeneXusUnanimo.UnanimoAngular",
+        "ResourceFile" : "Images_Spanish_GeneXusUnanimo_UnanimoAngular.json"
+    }, { 
+        "Language" : "Spanish",
+        "Theme" : "ObligatorioFinal",
+        "ResourceFile" : "Images_Spanish_ObligatorioFinal.json"
+    }, { 
+        "Language" : "Spanish",
+        "Theme" : "ObligatorioPrueba001",
+        "ResourceFile" : "Images_Spanish_ObligatorioPrueba001.json"
+    } ]
+}

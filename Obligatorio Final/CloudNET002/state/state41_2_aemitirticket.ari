@@ -1,0 +1,36 @@
+current_obj_i(2,proc,16).
+ 
+current_guid('3c33fe65-341e-4f95-971f-eea066860334').
+ 
+ 
+ 
+is_webproc_i(aemitirticket).
+ 
+ 
+is_pdf_i.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ij_main_object(aemitirticket,'Emitir Ticket','','""','HTTP',default).
+ 
+ 
+ 
+ 
+ij_object_dependency(aemitirticket,[],[],[],16).
+ 
+ 
+obj_parms_i([ 'short aP0_EntradaId' ],[ [ 11,in ] ]).
+ 
+ 
+ 
+ 
+ 
+ 

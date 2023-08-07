@@ -1,0 +1,10 @@
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\web\bin\wwtipoespectaculo.dll
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\web\bin\wwtipoespectaculo.pdb
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\wwtipoespectaculo\obj\Release\net6.0\wwtipoespectaculo.csproj.AssemblyReference.cache
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\wwtipoespectaculo\obj\Release\net6.0\wwtipoespectaculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\wwtipoespectaculo\obj\Release\net6.0\wwtipoespectaculo.csproj.CoreCompileInputs.cache
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\wwtipoespectaculo\obj\Release\net6.0\wwtipoespectaculo.csproj.CopyComplete
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\wwtipoespectaculo\obj\Release\net6.0\wwtipoespectaculo.dll
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\wwtipoespectaculo\obj\Release\net6.0\refint\wwtipoespectaculo.dll
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\wwtipoespectaculo\obj\Release\net6.0\wwtipoespectaculo.pdb
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\wwtipoespectaculo\obj\Release\net6.0\ref\wwtipoespectaculo.dll

@@ -1,0 +1,10 @@
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\web\bin\general.services.directionsservicerequest.dll
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\web\bin\general.services.directionsservicerequest.pdb
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\general.services.directionsservicerequest\obj\Release\net6.0\general.services.directionsservicerequest.csproj.AssemblyReference.cache
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\general.services.directionsservicerequest\obj\Release\net6.0\general.services.directionsservicerequest.GeneratedMSBuildEditorConfig.editorconfig
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\general.services.directionsservicerequest\obj\Release\net6.0\general.services.directionsservicerequest.csproj.CoreCompileInputs.cache
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\general.services.directionsservicerequest\obj\Release\net6.0\general.services.directionsservicerequest.csproj.CopyComplete
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\general.services.directionsservicerequest\obj\Release\net6.0\general.services.directionsservicerequest.dll
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\general.services.directionsservicerequest\obj\Release\net6.0\refint\general.services.directionsservicerequest.dll
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\general.services.directionsservicerequest\obj\Release\net6.0\general.services.directionsservicerequest.pdb
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\general.services.directionsservicerequest\obj\Release\net6.0\ref\general.services.directionsservicerequest.dll

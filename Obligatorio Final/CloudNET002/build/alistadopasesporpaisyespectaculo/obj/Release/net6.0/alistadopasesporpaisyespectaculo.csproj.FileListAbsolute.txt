@@ -1,0 +1,10 @@
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\web\bin\alistadopasesporpaisyespectaculo.dll
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\web\bin\alistadopasesporpaisyespectaculo.pdb
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\alistadopasesporpaisyespectaculo\obj\Release\net6.0\alistadopasesporpaisyespectaculo.csproj.AssemblyReference.cache
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\alistadopasesporpaisyespectaculo\obj\Release\net6.0\alistadopasesporpaisyespectaculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\alistadopasesporpaisyespectaculo\obj\Release\net6.0\alistadopasesporpaisyespectaculo.csproj.CoreCompileInputs.cache
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\alistadopasesporpaisyespectaculo\obj\Release\net6.0\alistadopasesporpaisyespectaculo.csproj.CopyComplete
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\alistadopasesporpaisyespectaculo\obj\Release\net6.0\alistadopasesporpaisyespectaculo.dll
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\alistadopasesporpaisyespectaculo\obj\Release\net6.0\refint\alistadopasesporpaisyespectaculo.dll
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\alistadopasesporpaisyespectaculo\obj\Release\net6.0\alistadopasesporpaisyespectaculo.pdb
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\alistadopasesporpaisyespectaculo\obj\Release\net6.0\ref\alistadopasesporpaisyespectaculo.dll

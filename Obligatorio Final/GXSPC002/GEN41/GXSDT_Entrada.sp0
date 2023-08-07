@@ -1,0 +1,146 @@
+ 
+spec_i([ sdt,[ 0,4,0 ],'Entrada','Entrada',0,spa,'18_0_3-171579' ]).
+ 
+struct_dt_i([ 0,4,0 ],name,'Entrada').
+struct_dt_i([ 0,4,0 ],namespace,'ObligatorioFinal').
+struct_dt_i([ 0,4,0 ],significantName,'Entrada').
+struct_dt_i([ 0,4,0 ],'ObjName','Entrada').
+struct_dt_i([ 0,4,0 ],'ObjDesc','Entrada').
+struct_dt_i([ 0,4,0 ],'ExternalName','Entrada').
+struct_dt_i([ 0,4,0 ],'ExternalNamespace','ObligatorioFinal').
+struct_dt_i([ 0,4,0 ],key,[ 11 ]).
+struct_dt_i([ 0,4,0 ],lvl,6).
+struct_dt_i([ 0,4,0 ],fullname,'Entrada').
+ 
+struct_dt_elem_i([ 0,4,0 ],1,name,'Entradaid').
+struct_dt_elem_i([ 0,4,0 ],1,camelname,'EntradaId').
+struct_dt_elem_i([ 0,4,0 ],1,basedon,94).
+struct_dt_elem_i([ 0,4,0 ],1,length,4).
+struct_dt_elem_i([ 0,4,0 ],1,decimals,0).
+struct_dt_elem_i([ 0,4,0 ],1,sign,0).
+struct_dt_elem_i([ 0,4,0 ],1,type,[ 4,4,0 ]).
+struct_dt_elem_i([ 0,4,0 ],1,pic,'ZZZ9').
+struct_dt_elem_i([ 0,4,0 ],1,collection,'False').
+struct_dt_elem_i([ 0,4,0 ],1,attributeid,'11').
+struct_dt_elem_i([ 0,4,0 ],1,'ExternalName','EntradaId').
+struct_dt_elem_i([ 0,4,0 ],1,'ExternalNamespace','ObligatorioFinal').
+struct_dt_elem_i([ 0,4,0 ],2,name,'Espectaculoid').
+struct_dt_elem_i([ 0,4,0 ],2,camelname,'EspectaculoId').
+struct_dt_elem_i([ 0,4,0 ],2,basedon,94).
+struct_dt_elem_i([ 0,4,0 ],2,length,4).
+struct_dt_elem_i([ 0,4,0 ],2,decimals,0).
+struct_dt_elem_i([ 0,4,0 ],2,sign,0).
+struct_dt_elem_i([ 0,4,0 ],2,type,[ 4,4,0 ]).
+struct_dt_elem_i([ 0,4,0 ],2,pic,'ZZZ9').
+struct_dt_elem_i([ 0,4,0 ],2,collection,'False').
+struct_dt_elem_i([ 0,4,0 ],2,attributeid,'5').
+struct_dt_elem_i([ 0,4,0 ],2,'ExternalName','EspectaculoId').
+struct_dt_elem_i([ 0,4,0 ],2,'ExternalNamespace','ObligatorioFinal').
+struct_dt_elem_i([ 0,4,0 ],3,name,'Espectaculonombre').
+struct_dt_elem_i([ 0,4,0 ],3,camelname,'EspectaculoNombre').
+struct_dt_elem_i([ 0,4,0 ],3,basedon,95).
+struct_dt_elem_i([ 0,4,0 ],3,length,60).
+struct_dt_elem_i([ 0,4,0 ],3,decimals,0).
+struct_dt_elem_i([ 0,4,0 ],3,type,[ 5,60,0 ]).
+struct_dt_elem_i([ 0,4,0 ],3,pic,'').
+struct_dt_elem_i([ 0,4,0 ],3,collection,'False').
+struct_dt_elem_i([ 0,4,0 ],3,attributeid,'8').
+struct_dt_elem_i([ 0,4,0 ],3,'ExternalName','EspectaculoNombre').
+struct_dt_elem_i([ 0,4,0 ],3,'ExternalNamespace','ObligatorioFinal').
+struct_dt_elem_i([ 0,4,0 ],4,name,'Espectaculofecha').
+struct_dt_elem_i([ 0,4,0 ],4,camelname,'EspectaculoFecha').
+struct_dt_elem_i([ 0,4,0 ],4,length,8).
+struct_dt_elem_i([ 0,4,0 ],4,decimals,0).
+struct_dt_elem_i([ 0,4,0 ],4,type,[ 6,8,0 ]).
+struct_dt_elem_i([ 0,4,0 ],4,pic,'99/99/99').
+struct_dt_elem_i([ 0,4,0 ],4,collection,'False').
+struct_dt_elem_i([ 0,4,0 ],4,attributeid,'19').
+struct_dt_elem_i([ 0,4,0 ],4,'ExternalName','EspectaculoFecha').
+struct_dt_elem_i([ 0,4,0 ],4,'ExternalNamespace','ObligatorioFinal').
+struct_dt_elem_i([ 0,4,0 ],5,name,'Sectorid').
+struct_dt_elem_i([ 0,4,0 ],5,camelname,'SectorId').
+struct_dt_elem_i([ 0,4,0 ],5,basedon,94).
+struct_dt_elem_i([ 0,4,0 ],5,length,4).
+struct_dt_elem_i([ 0,4,0 ],5,decimals,0).
+struct_dt_elem_i([ 0,4,0 ],5,sign,0).
+struct_dt_elem_i([ 0,4,0 ],5,type,[ 4,4,0 ]).
+struct_dt_elem_i([ 0,4,0 ],5,pic,'ZZZ9').
+struct_dt_elem_i([ 0,4,0 ],5,collection,'False').
+struct_dt_elem_i([ 0,4,0 ],5,attributeid,'9').
+struct_dt_elem_i([ 0,4,0 ],5,'ExternalName','SectorId').
+struct_dt_elem_i([ 0,4,0 ],5,'ExternalNamespace','ObligatorioFinal').
+struct_dt_elem_i([ 0,4,0 ],6,name,'Sectornombre').
+struct_dt_elem_i([ 0,4,0 ],6,camelname,'SectorNombre').
+struct_dt_elem_i([ 0,4,0 ],6,basedon,95).
+struct_dt_elem_i([ 0,4,0 ],6,length,60).
+struct_dt_elem_i([ 0,4,0 ],6,decimals,0).
+struct_dt_elem_i([ 0,4,0 ],6,type,[ 5,60,0 ]).
+struct_dt_elem_i([ 0,4,0 ],6,pic,'').
+struct_dt_elem_i([ 0,4,0 ],6,collection,'False').
+struct_dt_elem_i([ 0,4,0 ],6,attributeid,'21').
+struct_dt_elem_i([ 0,4,0 ],6,'ExternalName','SectorNombre').
+struct_dt_elem_i([ 0,4,0 ],6,'ExternalNamespace','ObligatorioFinal').
+struct_dt_elem_i([ 0,4,0 ],7,name,'Sectorprecio').
+struct_dt_elem_i([ 0,4,0 ],7,camelname,'SectorPrecio').
+struct_dt_elem_i([ 0,4,0 ],7,length,6).
+struct_dt_elem_i([ 0,4,0 ],7,decimals,0).
+struct_dt_elem_i([ 0,4,0 ],7,sign,0).
+struct_dt_elem_i([ 0,4,0 ],7,type,[ 4,6,0 ]).
+struct_dt_elem_i([ 0,4,0 ],7,pic,'ZZZZZ9').
+struct_dt_elem_i([ 0,4,0 ],7,collection,'False').
+struct_dt_elem_i([ 0,4,0 ],7,attributeid,'23').
+struct_dt_elem_i([ 0,4,0 ],7,'ExternalName','SectorPrecio').
+struct_dt_elem_i([ 0,4,0 ],7,'ExternalNamespace','ObligatorioFinal').
+struct_dt_elem_i([ 0,4,0 ],8,name,'Sectorentradasvendidas').
+struct_dt_elem_i([ 0,4,0 ],8,camelname,'SectorEntradasVendidas').
+struct_dt_elem_i([ 0,4,0 ],8,length,5).
+struct_dt_elem_i([ 0,4,0 ],8,decimals,0).
+struct_dt_elem_i([ 0,4,0 ],8,sign,0).
+struct_dt_elem_i([ 0,4,0 ],8,type,[ 4,5,0 ]).
+struct_dt_elem_i([ 0,4,0 ],8,pic,'ZZZZ9').
+struct_dt_elem_i([ 0,4,0 ],8,collection,'False').
+struct_dt_elem_i([ 0,4,0 ],8,attributeid,'25').
+struct_dt_elem_i([ 0,4,0 ],8,'ExternalName','SectorEntradasVendidas').
+struct_dt_elem_i([ 0,4,0 ],8,'ExternalNamespace','ObligatorioFinal').
+struct_dt_elem_i([ 0,4,0 ],9,name,'Sectorentradasdisponibles').
+struct_dt_elem_i([ 0,4,0 ],9,camelname,'SectorEntradasDisponibles').
+struct_dt_elem_i([ 0,4,0 ],9,length,5).
+struct_dt_elem_i([ 0,4,0 ],9,decimals,0).
+struct_dt_elem_i([ 0,4,0 ],9,sign,0).
+struct_dt_elem_i([ 0,4,0 ],9,type,[ 4,5,0 ]).
+struct_dt_elem_i([ 0,4,0 ],9,pic,'ZZZZ9').
+struct_dt_elem_i([ 0,4,0 ],9,collection,'False').
+struct_dt_elem_i([ 0,4,0 ],9,attributeid,'24').
+struct_dt_elem_i([ 0,4,0 ],9,'ExternalName','SectorEntradasDisponibles').
+struct_dt_elem_i([ 0,4,0 ],9,'ExternalNamespace','ObligatorioFinal').
+struct_dt_elem_i([ 0,4,0 ],10,name,'Paiscompraid').
+struct_dt_elem_i([ 0,4,0 ],10,camelname,'PaisCompraId').
+struct_dt_elem_i([ 0,4,0 ],10,basedon,94).
+struct_dt_elem_i([ 0,4,0 ],10,length,4).
+struct_dt_elem_i([ 0,4,0 ],10,decimals,0).
+struct_dt_elem_i([ 0,4,0 ],10,sign,0).
+struct_dt_elem_i([ 0,4,0 ],10,type,[ 4,4,0 ]).
+struct_dt_elem_i([ 0,4,0 ],10,pic,'ZZZ9').
+struct_dt_elem_i([ 0,4,0 ],10,collection,'False').
+struct_dt_elem_i([ 0,4,0 ],10,attributeid,'12').
+struct_dt_elem_i([ 0,4,0 ],10,'ExternalName','PaisCompraId').
+struct_dt_elem_i([ 0,4,0 ],10,'ExternalNamespace','ObligatorioFinal').
+struct_dt_elem_i([ 0,4,0 ],11,name,'Paiscompranombre').
+struct_dt_elem_i([ 0,4,0 ],11,camelname,'PaisCompraNombre').
+struct_dt_elem_i([ 0,4,0 ],11,basedon,95).
+struct_dt_elem_i([ 0,4,0 ],11,length,60).
+struct_dt_elem_i([ 0,4,0 ],11,decimals,0).
+struct_dt_elem_i([ 0,4,0 ],11,type,[ 5,60,0 ]).
+struct_dt_elem_i([ 0,4,0 ],11,pic,'').
+struct_dt_elem_i([ 0,4,0 ],11,collection,'False').
+struct_dt_elem_i([ 0,4,0 ],11,attributeid,'27').
+struct_dt_elem_i([ 0,4,0 ],11,'ExternalName','PaisCompraNombre').
+struct_dt_elem_i([ 0,4,0 ],11,'ExternalNamespace','ObligatorioFinal').
+ 
+ 
+ 
+ 
+ 
+ 
+module_info_i('GeneXus\Common','CSHARP_NAME_SPACE','GeneXus.Core').
+module_info_i('GeneXus\Common','AssemblyName','GeneXus.dll').

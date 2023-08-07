@@ -1,0 +1,36 @@
+current_obj_i(2,proc,17).
+ 
+current_guid('cbb67b12-73e6-4537-a2df-69bde6fbc9cd').
+ 
+ 
+ 
+is_webproc_i(aemitirinvitacion).
+ 
+ 
+is_pdf_i.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ij_main_object(aemitirinvitacion,'Emitir Invitacion','','""','HTTP',default).
+ 
+ 
+ 
+ 
+ij_object_dependency(aemitirinvitacion,[],[],[],17).
+ 
+ 
+obj_parms_i([ 'short aP0_InvitacionId' ],[ [ 17,in ] ]).
+ 
+ 
+ 
+ 
+ 
+ 

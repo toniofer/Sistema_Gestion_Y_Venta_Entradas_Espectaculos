@@ -1,0 +1,519 @@
+spec_i([ proc,27,'Listado Pases Por Pais YEspectaculo','ListadoPasesPorPaisYEspectaculo',78,spa,'18_0_3-171579' ]).
+ 
+struct_i(2,1,[],[]).
+struct_i(3,2,[ 5 ],[]).
+ 
+level_i(2,[ 3,[ [ 3,many ],[ 2,one ],[ 1,one ] ],[],[],[ [ [ 3,2,1 ],[ 5,40000,4,20,19,8,2,3,1 ] ] ],[ [ [ 3,2,1 ],[] ] ],[ 5 ],'IESPECTACULO',[ 3,[ [ [],'Espectaculoid',5 ] ] ],[] ]).
+level_i(3,[ 7,[ [ 7,many ] ],[],[],[ [ [ 7 ],[ 5,14,13,34 ] ] ],[ [ [ 7 ],[] ] ],[ 34 ],'',[],[] ]).
+ 
+tw_i(2,[ [ 2,[ [ 3,3,3 ] ] ],[ 1,[ [ 2,1,1 ] ] ] ]).
+tw_i(3,[]).
+ 
+lwi_i(2,[ [] ]).
+lwi_i(3,[ [ c([ t(5,2),t(=,10),t(5,23) ],[ 5 ]) ] ]).
+ 
+ 
+ 
+ 
+ta_i(2,[ [ [ 3,3 ],[ 2,1 ],[ 3,5 ],[ 3,40000 ],[ 2,4 ],[ 3,20 ],[ 3,19 ],[ 3,8 ],[ 1,2 ] ] ]).
+ta_i(3,[ [ [ 7,5 ],[ 7,14 ],[ 7,13 ],[ 7,34 ] ] ]).
+ 
+las_i(2,[ [ 5,40000,4,20,19,8,2,3,1 ] ]).
+las_i(3,[ [ 5,14,13,34 ] ]).
+ 
+lac_i(2,[ [] ]).
+lac_i(3,[ [] ]).
+ 
+ 
+ 
+ 
+ 
+ 
+default_i(e('Output',2,2,'''FIL''')).
+ 
+rule_i(0,datastore(1,'DS_LAST_CHANGE','')).
+rule_i(0,datastore(1,'LOCK_RETRY','10')).
+rule_i(0,datastore(1,'WAIT_RECORD','0')).
+rule_i(0,datastore(1,'ISOLATION_LEVEL','CR')).
+rule_i(0,datastore(1,'SQLSERVER_VERSION','10')).
+rule_i(0,datastore(1,'COMMENT_ON','No')).
+rule_i(0,datastore(1,'DFT_TMP_TBLSPACE','')).
+rule_i(0,datastore(1,'DFT_IDX_TBLSPACE','')).
+rule_i(0,datastore(1,'DFT_TBL_TBLSPACE','')).
+rule_i(0,datastore(1,'DCL_REF_INT_DB','Yes')).
+rule_i(0,datastore(1,'PRIMARY_KEY_TYPE','PK')).
+rule_i(0,datastore(1,'CS_SCHEMA','')).
+rule_i(0,datastore(1,'SORT_ATTRIBUTES','Yes')).
+rule_i(0,datastore(1,'JRN400','QSQJRN')).
+rule_i(0,datastore(1,'CREATE_SAVF','Yes')).
+rule_i(0,datastore(1,'PGMLIB','')).
+rule_i(0,datastore(1,'DTALIB','')).
+rule_i(0,datastore(1,'RecycleRWMin','30')).
+rule_i(0,datastore(1,'RecycleRWType','1')).
+rule_i(0,datastore(1,'RecycleRW','-1')).
+rule_i(0,datastore(1,'POOL_STARTUP','No')).
+rule_i(0,datastore(1,'POOLSIZE_RW','10')).
+rule_i(0,datastore(1,'UnlimitedRWPool','-1')).
+rule_i(0,datastore(1,'PoolRWEnabled','-1')).
+rule_i(0,datastore(1,'CS_RPCPGML','')).
+rule_i(0,datastore(1,'DS_READ_REPLICA','No')).
+rule_i(0,datastore(1,'JDBC_DATASOURCE','')).
+rule_i(0,datastore(1,'USE_JDBC_DATASOURCE','0')).
+rule_i(0,datastore(1,'DS_DBMS_ADDINFO','Timeout=120')).
+rule_i(0,datastore(1,'USER_PASSWORD','uÜF\Y˜ê9â:gÌ2ÌNgsWR‡k')).
+rule_i(0,datastore(1,'USER_ID',uHbeh98wD0WsWTws)).
+rule_i(0,datastore(1,'TRUSTED_CONNECTION','No')).
+rule_i(0,datastore(1,'CS_CONNECT','First')).
+rule_i(0,datastore(1,'DBMS_PORT','')).
+rule_i(0,datastore(1,'CS_SERVER','trialapps3.genexus.com')).
+rule_i(0,datastore(1,'CS_DBNAME','Id211ffcfcef710b953a1a5ddd24cdc0e5')).
+rule_i(0,datastore(1,'CS_FLEDSNAME','')).
+rule_i(0,datastore(1,'CS_DRVNAME','sql server')).
+rule_i(0,datastore(1,'CS_DSNAME','')).
+rule_i(0,datastore(1,'DB_URL','')).
+rule_i(0,datastore(1,'JDBC_CUSTOM_URL','0')).
+rule_i(0,datastore(1,'JDBC_CUSTOM_DRIVER','')).
+rule_i(0,datastore(1,'JDBC_DRIVER','com.microsoft.sqlserver.jdbc.SQLServerDriver')).
+rule_i(0,datastore(1,'CONNECT_METHOD','OPSYS')).
+rule_i(0,datastore(1,'ACCESS_TECHNO','ADONET')).
+rule_i(0,datastore(1,'MAIN_DS','-1')).
+rule_i(0,datastore(1,'REORG_GEN','8')).
+rule_i(0,datastore(1,'HelpKeyword','20')).
+rule_i(0,datastore(1,'DBMS',12)).
+rule_i(0,datastore(1,'NAME','Default')).
+rule_i(0,prop(idNULLS_BEHAVIOR,idNB_Current)).
+rule_i(0,prop('PWFCallable','0')).
+rule_i(0,prop('ObjectVisibility','Public')).
+rule_i(0,prop('FullyQualifiedName','ListadoPasesPorPaisYEspectaculo')).
+rule_i(0,prop('GenerateObject','-1')).
+rule_i(0,prop('CS_ORA_FORUPD','UMPV')).
+rule_i(0,prop('Optimize_copy','UMPV')).
+rule_i(0,prop('JOIN_TYPE','UMPV')).
+rule_i(0,prop('DBMS_JOINS','UMPV')).
+rule_i(0,prop('NULLVALUE_AS_NULL','UMPV')).
+rule_i(0,prop('INITIALIZE_NEW','UMPV')).
+rule_i(0,prop('STD_FUNC_OBJECT','Yes')).
+rule_i(0,prop('SPC_WARNINGS_DISABLED','spc0096 spc0107 spc0142')).
+rule_i(0,prop('TRNEND','Yes')).
+rule_i(0,prop('AUTOCENTER','UMPV')).
+rule_i(0,prop('LSTPFOOT','YES')).
+rule_i(0,prop('CANCEL','YES')).
+rule_i(0,prop('CONFIRM','UMPV')).
+rule_i(0,prop('TRNCFM','UMPV')).
+rule_i(0,prop('PRINT_CUST_LAYOUT','UMPV')).
+rule_i(0,prop('OUTPUT','FIL')).
+rule_i(0,prop(idConnectivitySupport,idInherit)).
+rule_i(0,prop(idISPRCWEBSERVICE,'0')).
+rule_i(0,prop('AppGenerator','1')).
+rule_i(0,prop('AppLocation','')).
+rule_i(0,prop('AppIcon','')).
+rule_i(0,prop('AppTitle','')).
+rule_i(0,prop('WEB_SECURITY_LEVEL','High')).
+rule_i(0,prop('HTTP_PROTOCOL','Secure')).
+rule_i(0,prop('USE_ENCRYPTION','NO')).
+rule_i(0,prop('COMPRESS_HTML','UMPV')).
+rule_i(0,prop('EXECUTE_IN_NEW_UTL','0')).
+rule_i(0,prop('Theme',o(102,'ObligatorioPrueba001'))).
+rule_i(0,prop('OBJECT_METADATA','')).
+rule_i(0,prop('CALL_PROTOCOL','HTTP')).
+rule_i(0,prop('IsMain','-1')).
+rule_i(0,prop(sessiontype,'RW')).
+rule_i(0,prop('Folder',o(120,'Root Module'))).
+rule_i(0,prop('ObjDesc','Listado Pases Por Pais YEspectaculo')).
+rule_i(0,prop('ObjName','ListadoPasesPorPaisYEspectaculo')).
+rule_i(0,maingen(41)).
+rule_i(0,prop('PGMTYPE',main)).
+rule_i(0,output_file(t('PasesPorPaisYEspectaculo.pdf',3),t(pdf,3))).
+rule_i(0,parm([ 'Espectaculoid' ],[])).
+rule_i(0,parmio([ [ 'Espectaculoid',in ] ])).
+rule_i(0,output('FIL')).
+ 
+a_i(1,1,f,'Line',[],[ [],[ t(0,3) ] ]).
+a_i(2,1,f,'Err',[],[ [],[ t('0',3) ] ]).
+a_i(3,3,t,7,[],[ [],'',[] ]).
+a_i(4,2,t,3,[],[ [ [ [],'Espectaculoid',5 ] ],'IESPECTACULO',[] ]).
+a_i(5,2,r,2,[],[ [ [ 3,3,3 ] ],'ILUGAR',[] ]).
+a_i(6,2,r,1,[],[ [ [ 2,1,1 ] ],'IPAIS',[] ]).
+ 
+v_i(f,i,1,[]).
+v_i(f,o,1,'Line').
+v_i(f,i,2,[]).
+v_i(f,o,2,'Err').
+v_i(t,i,3,[]).
+v_i(t,o,3,5).
+v_i(t,o,3,14).
+v_i(t,o,3,13).
+v_i(t,o,3,34).
+v_i(t,i,4,'Espectaculoid').
+v_i(t,o,4,3).
+v_i(t,o,4,5).
+v_i(t,o,4,40000).
+v_i(t,o,4,20).
+v_i(t,o,4,19).
+v_i(t,o,4,8).
+v_i(r,i,5,3).
+v_i(r,o,5,1).
+v_i(r,o,5,4).
+v_i(r,i,6,1).
+v_i(r,o,6,2).
+ 
+ 
+ 
+ 
+ 
+ 
+attri_i('Output',[ 'Gx_out',char,3,0,'',1,'','',16 ]).
+attri_i(1,[ 'PaisId',int,4,0,'ZZZ9',0,'Pais Id','',0 ]).
+attri_i(3,[ 'LugarId',int,4,0,'ZZZ9',0,'Lugar Id','',0 ]).
+attri_i(5,[ 'EspectaculoId',int,4,0,'ZZZ9',0,'Espectaculo Id','',0 ]).
+attri_i('Page',[ 'Gx_page',int,6,0,'ZZZZZ9',0,'Page number','',15 ]).
+attri_i('Line',[ 'Gx_line',int,6,0,'ZZZZZ9',0,'Line number','',14 ]).
+attri_i(4,[ 'LugarNombre',char,60,0,'',0,'Lugar Nombre','',0 ]).
+attri_i(20,[ 'EspectaculoAfiche',bits,4,0,'',0,'Espectaculo Afiche','',0 ]).
+attri_i(19,[ 'EspectaculoFecha',date,8,0,'99/99/99',0,'Espectaculo Fecha','',0 ]).
+attri_i(8,[ 'EspectaculoNombre',char,60,0,'',0,'Espectaculo Nombre','',0 ]).
+attri_i(2,[ 'PaisNombre',char,60,0,'',0,'Pais Nombre','',0 ]).
+attri_i(14,[ 'PaseTipo',char,20,0,'',0,'Pase Tipo','',0 ]).
+attri_i(13,[ 'PaseId',int,4,0,'ZZZ9',0,'Pase Id','',0 ]).
+attri_i(34,[ 'NombreInvitado',char,50,0,'',0,'Nombre Invitado','',0 ]).
+attri_i(40000,[ 'EspectaculoAfiche_GXI',svchar,2048,0,'',0,'',[],0 ]).
+attri_i('Errmsg',[ 'Gx_emsg',char,70,0,'',1,'Error text','',11 ]).
+attri_i('Err',[ 'Gx_err',int,3,0,'ZZ9',1,'Error code','',10 ]).
+attri_i('Espectaculoid',[ 'EspectaculoId',int,4,0,'ZZZ9',0,'Espectaculo Id','',9 ]).
+attri_i('Paisid',[ 'PaisId',int,4,0,'ZZZ9',0,'Pais Id','',8 ]).
+ 
+table_i(7,[ 'Pase',[ 13,14,5,34 ],'Pase','Pase' ]).
+table_i(1,[ 'Pais',[ 1,2 ],'Pais','Pais' ]).
+table_i(2,[ 'Lugar',[ 3,4,1 ],'Lugar','Lugar' ]).
+table_i(3,[ 'Espectaculo',[ 5,8,19,3,20,40000 ],'Espectaculo','Espectaculo' ]).
+ 
+index_i(7,[ '',a,[ 34 ],'' ]).
+index_i(7,[ 'IPASE',u,[ 13,14 ],'IPase' ]).
+index_i(3,[ 'IESPECTACULO',u,[ 5 ],'IEspectaculo' ]).
+index_i(2,[ 'ILUGAR',u,[ 3 ],'ILugar' ]).
+index_i(1,[ 'IPAIS',u,[ 1 ],'IPais' ]).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+add_att_i(bits,2,40000,20,'EspectaculoAfiche_GXI',[ svchar,2048,0,0 ]).
+add_att_i(bits,2,40001,44,'LugarFoto_GXI',[ svchar,2048,0,0 ]).
+add_att_i(bits,2,40002,43,'PaisBandera_GXI',[ svchar,2048,0,0 ]).
+ 
+ 
+ 
+ 
+start_i(2,0,0,[ [ [ 5,23,'Espectaculoid',= ] ],one ]).
+ 
+end_i(2,0,0,[ [ [ t(5,2),t(=,10),t('Espectaculoid',23) ] ] ]).
+ 
+ 
+ 
+ 
+enumerated_i(2,14,96).
+ 
+enum_value_i(2,96,'"Entrada"','Entrada','"Entrada"',[ none ]).
+enum_value_i(2,96,'"Invitacion"','Invitacion','"Invitacion"',[ none ]).
+ 
+enum_value_info_i(2,96,'PaseTipo').
+ 
+enum_type_i(2,96,char,20,0).
+ 
+dom_info_i(94,[ 'Id' ]).
+dom_info_i(96,[ 'PaseTipo' ]).
+dom_info_i(95,[ 'Nombre' ]).
+ 
+ 
+break_i(3,nvg,2,[ 34 ],[ [ 34,13,14 ],[],[] ]).
+break_i(2,nvg,1,[],[ [ 2,8,19,20,4,40000 ],[ 5 ],[] ]).
+break_i(1,rpt,0,[],[ [],[],[] ]).
+ 
+b_group_i(1,1,lit,0,1,0).
+b_group_i(1,2,nvg,2,1,1).
+b_group_i(2,1,lit,0,2,17).
+b_group_i(2,2,nvg,3,5,5).
+b_group_i(3,1,lit,0,20,25).
+b_group_i(2,3,lit,0,26,24).
+b_group_i(1,3,lit,0,28,0).
+ 
+b_line_i(0,1,1,cmd,0,[]).
+b_line_i(1,2,1,cmd,2,[ t('',121,1,0),t(table,3,1,10),t(3,3,1,10) ]).
+b_line_i(3,2,1,pb,2,[ t('Printblock1',29,2,8) ]).
+b_line_i([ 3,0 ],2,1,line,2,[ t('Listado de pases de un espectáculo ordenados alfabéticamente ',3,0,3) ]).
+b_line_i([ 3,5 ],2,1,line,7,[ t(20,2,5,7),t(40000,2,5,7),t(8,2,5,24) ]).
+b_line_i([ 3,8 ],2,1,line,10,[ t(4,2,8,24),t(2,2,8,52),t(19,2,8,83) ]).
+b_line_i([ 3,12 ],2,1,line,14,[ t('Id Pase:',3,12,17),t('Tipo de pase:',3,12,35),t('Nombre invitado:',3,12,73) ]).
+b_line_i([ 3,14 ],2,1,line,16,[ t(' ',3,14,0) ]).
+b_line_i(4,2,1,cmd,17,[]).
+b_line_i(5,3,1,cmd,20,[ t('',121,5,0),t(table,3,5,11),t(7,3,5,11),t('ORDER',39,5,16),t(34,2,5,22) ]).
+b_line_i(6,3,1,pb,20,[ t('Printblock2',29,20,9) ]).
+b_line_i([ 6,0 ],3,1,line,20,[ t(' ',3,0,0) ]).
+b_line_i([ 6,1 ],3,1,line,21,[ t(13,2,1,18),t(14,2,1,36),t(34,2,1,74) ]).
+b_line_i([ 6,4 ],3,1,line,24,[ t(' ',3,4,0) ]).
+b_line_i(7,3,1,cmd,25,[ t('',128,7,0) ]).
+b_line_i(8,2,3,cmd,24,[]).
+b_line_i(9,2,3,cmd,24,[ t('',128,9,0) ]).
+ 
+ 
+ 
+ 
+ 
+ 
+page_layout_i([ 66,0,6 ]).
+ 
+ 
+ 
+paper_info_i([ 0,256,'',11909,16834,0,0,0,0,1 ]).
+ 
+ppi_i([ 100,100 ]).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+lit_i(3,3,t(2,2),[ font('Microsoft Sans Serif',14,[]),rect(367,133,560,157),outstyle(none),align(left),valign(top),fore(rgb(0,0,0)),border(1),format(0),ctlname('2'),ctrltype(edit,3),ispwd(0),gxcolor([]) ]).
+lit_i(5,3,t(8,2),[ font('Microsoft Sans Serif',16,[]),rect(173,80,733,108),outstyle(none),align(left),valign(top),fore(rgb(0,0,0)),border(1),format(0),ctlname('8'),ctrltype(edit,5),ispwd(0),gxcolor([]) ]).
+lit_i(6,3,t(19,2),[ font('Microsoft Sans Serif',14,[]),rect(587,133,687,157),outstyle(none),align(right),valign(top),fore(rgb(0,0,0)),border(1),format(0),ctlname('19'),ctrltype(edit,6),ispwd(0),gxcolor([]) ]).
+lit_i(7,3,t(20,2),[ font('Microsoft Sans Serif',8,[]),rect(53,80,140,160),outstyle(none),align(left),valign(top),fore(rgb(0,0,0)),border(1),format(0),ctlname('20'),ctrltype(edit,7),ispwd(0),gxcolor([]) ]).
+lit_i(11,3,t('Listado de pases de un espectáculo ordenados alfabéticamente ',3),[ font('Microsoft Sans Serif',16,[]),rect(27,13,807,53),outstyle(none),align(center),valign(middle),fore(rgb(0,0,0)),border(1),ctlname('Gxreportlabel1'),gxcolor([]) ]).
+lit_i(14,3,t(4,2),[ font('Microsoft Sans Serif',14,[]),rect(173,133,346,157),outstyle(none),align(left),valign(top),fore(rgb(0,0,0)),border(1),format(0),ctlname('4'),ctrltype(edit,14),ispwd(0),gxcolor([]) ]).
+lit_i(15,3,rect(15),[ rect(0,173,813,173),outstyle(none),fill,back(rgb(0,0,0)),fore(rgb(0,0,0)),border(1),ctlname('Gxreportline1'),gxcolor([]),borderstyle(0) ]).
+lit_i(18,3,rect(18),[ rect(0,67,813,67),outstyle(none),fill,back(rgb(0,0,0)),fore(rgb(0,0,0)),border(1),ctlname('Gxreportline2'),gxcolor([]),borderstyle(0) ]).
+lit_i(16,3,t('Id Pase:',3),[ font('Microsoft Sans Serif',11,[]),rect(120,187,174,206),outstyle(none),align(left),valign(top),noclip,fore(rgb(0,0,0)),border(1),ctlname('Gxreportlabel2'),gxcolor([]) ]).
+lit_i(17,3,t('Tipo de pase:',3),[ font('Microsoft Sans Serif',11,[]),rect(247,187,347,206),outstyle(none),align(left),valign(top),fore(rgb(0,0,0)),border(1),ctlname('Gxreportlabel3'),gxcolor([]) ]).
+lit_i(19,3,t('Nombre invitado:',3),[ font('Microsoft Sans Serif',11,[]),rect(513,187,720,206),outstyle(none),align(left),valign(top),fore(rgb(0,0,0)),border(1),ctlname('Gxreportlabel4'),gxcolor([]) ]).
+lit_i(20,3,rect(20),[ rect(0,227,813,227),outstyle(none),fill,back(rgb(0,0,0)),fore(rgb(0,0,0)),border(1),ctlname('Gxreportline3'),gxcolor([]),borderstyle(0) ]).
+lit_i(1,3,window,[ title('Text'),rect(0,0,827,238),outstyle(none),fill,graph,back(rgb(0,0,0)),fore(rgb(0,0,0)),border(0),ctlname('Printblock1'),align(left),valign(top),gxcolor([]),defgxcolor('BLK','WHT') ]).
+lit_i(8,6,t(13,2),[ font('Microsoft Sans Serif',12,[]),rect(127,27,166,49),outstyle(none),align(right),valign(top),noclip,fore(rgb(0,0,0)),border(1),format(0),ctlname('13'),ctrltype(edit,8),ispwd(0),gxcolor([]) ]).
+lit_i(9,6,t(14,2),[ font('Microsoft Sans Serif',12,[]),rect(253,27,400,49),outstyle(none),align(left),valign(top),noclip,fore(rgb(0,0,0)),border(1),format(0),ctlname('14'),ctrltype(edit,9),ispwd(0),gxcolor([]) ]).
+lit_i(10,6,t(34,2),[ font('Microsoft Sans Serif',12,[]),rect(520,27,718,49),outstyle(none),align(left),valign(top),fore(rgb(0,0,0)),border(1),format(0),ctlname('34'),ctrltype(edit,10),ispwd(0),gxcolor([]) ]).
+lit_i(4,6,window,[ title('Text'),rect(0,0,827,78),outstyle(none),fill,graph,back(rgb(0,0,0)),fore(rgb(0,0,0)),border(0),ctlname('Printblock2'),align(left),valign(top),gxcolor([]),defgxcolor('BLK','WHT') ]).
+ 
+grid_i(7,15).
+ 
+ 
+ 
+form_class_i(1,'Graphic').
+ 
+ 
+ 
+ 
+calling_main_i(1,27).
+ 
+att_prop_i(2,34,'ExternalName','NombreInvitado',d).
+att_prop_i(2,34,'ExternalNamespace','ObligatorioFinal',d).
+att_prop_i(2,34,'EmptyAsNull','Yes',d).
+att_prop_i(2,34,idBasedOn,'',d).
+att_prop_i(2,34,'ATT_INITIAL_VALUE','',d).
+att_prop_i(2,34,'DB_NLS_SUPPORT','Yes',d).
+att_prop_i(2,34,'AttRegEx','',d).
+att_prop_i(2,34,'AttValidationFailedMsg','',d).
+att_prop_i(2,34,'DownloadOffline','0',d).
+att_prop_i(2,34,'VarServiceExtName','',d).
+att_prop_i(2,34,'FullName','NombreInvitado',v).
+att_prop_i(2,13,'ExternalName','PaseId',d).
+att_prop_i(2,13,'ExternalNamespace','ObligatorioFinal',d).
+att_prop_i(2,13,'EmptyAsNull','Yes',d).
+att_prop_i(2,13,idBasedOn,94,v).
+att_prop_i(2,13,'AUTONUMBER','0',v).
+att_prop_i(2,13,'ATT_INITIAL_VALUE','',d).
+att_prop_i(2,13,'AttRegEx','',d).
+att_prop_i(2,13,'AttValidationFailedMsg','',d).
+att_prop_i(2,13,'DownloadOffline','0',d).
+att_prop_i(2,13,'VarServiceExtName','',d).
+att_prop_i(2,13,'FullName','PaseId',v).
+att_prop_i(2,14,'ExternalName','PaseTipo',d).
+att_prop_i(2,14,'ExternalNamespace','ObligatorioFinal',d).
+att_prop_i(2,14,'EmptyAsNull','Yes',d).
+att_prop_i(2,14,idBasedOn,96,v).
+att_prop_i(2,14,'ATT_INITIAL_VALUE','',d).
+att_prop_i(2,14,'DB_NLS_SUPPORT','Yes',d).
+att_prop_i(2,14,'AttRegEx','',d).
+att_prop_i(2,14,'AttValidationFailedMsg','GXSPC_OutOfRange',d).
+att_prop_i(2,14,'DownloadOffline','0',d).
+att_prop_i(2,14,'VarServiceExtName','',d).
+att_prop_i(2,14,'FullName','PaseTipo',v).
+att_prop_i(2,2,'ExternalName','PaisNombre',d).
+att_prop_i(2,2,'ExternalNamespace','ObligatorioFinal',d).
+att_prop_i(2,2,'EmptyAsNull','Yes',d).
+att_prop_i(2,2,idBasedOn,95,v).
+att_prop_i(2,2,'ATT_INITIAL_VALUE','',d).
+att_prop_i(2,2,'DB_NLS_SUPPORT','Yes',d).
+att_prop_i(2,2,'AttRegEx','',d).
+att_prop_i(2,2,'AttValidationFailedMsg','',d).
+att_prop_i(2,2,'DownloadOffline','0',d).
+att_prop_i(2,2,'VarServiceExtName','',d).
+att_prop_i(2,2,'FullName','PaisNombre',v).
+att_prop_i(2,8,'ExternalName','EspectaculoNombre',d).
+att_prop_i(2,8,'ExternalNamespace','ObligatorioFinal',d).
+att_prop_i(2,8,'EmptyAsNull','Yes',d).
+att_prop_i(2,8,idBasedOn,95,v).
+att_prop_i(2,8,'ATT_INITIAL_VALUE','',d).
+att_prop_i(2,8,'DB_NLS_SUPPORT','Yes',d).
+att_prop_i(2,8,'AttRegEx','',d).
+att_prop_i(2,8,'AttValidationFailedMsg','',d).
+att_prop_i(2,8,'DownloadOffline','0',d).
+att_prop_i(2,8,'VarServiceExtName','',d).
+att_prop_i(2,8,'FullName','EspectaculoNombre',v).
+att_prop_i(2,19,'ExternalName','EspectaculoFecha',d).
+att_prop_i(2,19,'ExternalNamespace','ObligatorioFinal',d).
+att_prop_i(2,19,'EmptyAsNull','Yes',d).
+att_prop_i(2,19,idBasedOn,'',d).
+att_prop_i(2,19,'ATT_INITIAL_VALUE','',d).
+att_prop_i(2,19,'AttRegEx','',d).
+att_prop_i(2,19,'AttValidationFailedMsg','',d).
+att_prop_i(2,19,idDATEFORMAT,idDATEFORMAT_SHORT,d).
+att_prop_i(2,19,'DownloadOffline','0',d).
+att_prop_i(2,19,'VarServiceExtName','',d).
+att_prop_i(2,19,'FullName','EspectaculoFecha',v).
+att_prop_i(2,20,'ExternalName','EspectaculoAfiche',d).
+att_prop_i(2,20,'ExternalNamespace','ObligatorioFinal',d).
+att_prop_i(2,20,'EmptyAsNull','Yes',d).
+att_prop_i(2,20,'ExternalStorage','-1',d).
+att_prop_i(2,20,idBasedOn,'',d).
+att_prop_i(2,20,'ATT_INITIAL_VALUE','',d).
+att_prop_i(2,20,'AttRegEx','',d).
+att_prop_i(2,20,'AttValidationFailedMsg','',d).
+att_prop_i(2,20,'DownloadOffline','0',d).
+att_prop_i(2,20,'VarServiceExtName','',d).
+att_prop_i(2,20,'FullName','EspectaculoAfiche',v).
+att_prop_i(2,4,'ExternalName','LugarNombre',d).
+att_prop_i(2,4,'ExternalNamespace','ObligatorioFinal',d).
+att_prop_i(2,4,'EmptyAsNull','Yes',d).
+att_prop_i(2,4,idBasedOn,95,v).
+att_prop_i(2,4,'ATT_INITIAL_VALUE','',d).
+att_prop_i(2,4,'DB_NLS_SUPPORT','Yes',d).
+att_prop_i(2,4,'AttRegEx','',d).
+att_prop_i(2,4,'AttValidationFailedMsg','',d).
+att_prop_i(2,4,'DownloadOffline','0',d).
+att_prop_i(2,4,'VarServiceExtName','',d).
+att_prop_i(2,4,'FullName','LugarNombre',v).
+att_prop_i(2,5,'ExternalName','EspectaculoId',d).
+att_prop_i(2,5,'ExternalNamespace','ObligatorioFinal',d).
+att_prop_i(2,5,'EmptyAsNull','Yes',d).
+att_prop_i(2,5,idBasedOn,94,v).
+att_prop_i(2,5,'AUTONUMBER','-1',v).
+att_prop_i(2,5,'AUTONUMBER_START','1',d).
+att_prop_i(2,5,'AUTONUMBER_STEP','1',d).
+att_prop_i(2,5,'AUTONUMBER_FORREPLICATION','-1',d).
+att_prop_i(2,5,'ATT_INITIAL_VALUE','',d).
+att_prop_i(2,5,'AttRegEx','',d).
+att_prop_i(2,5,'AttValidationFailedMsg','',d).
+att_prop_i(2,5,'DownloadOffline','0',d).
+att_prop_i(2,5,'VarServiceExtName','',d).
+att_prop_i(2,5,'FullName','EspectaculoId',v).
+att_prop_i(2,3,'ExternalName','LugarId',d).
+att_prop_i(2,3,'ExternalNamespace','ObligatorioFinal',d).
+att_prop_i(2,3,'EmptyAsNull','Yes',d).
+att_prop_i(2,3,idBasedOn,94,v).
+att_prop_i(2,3,'AUTONUMBER','-1',v).
+att_prop_i(2,3,'AUTONUMBER_START','1',d).
+att_prop_i(2,3,'AUTONUMBER_STEP','1',d).
+att_prop_i(2,3,'AUTONUMBER_FORREPLICATION','-1',d).
+att_prop_i(2,3,'ATT_INITIAL_VALUE','',d).
+att_prop_i(2,3,'AttRegEx','',d).
+att_prop_i(2,3,'AttValidationFailedMsg','',d).
+att_prop_i(2,3,'DownloadOffline','0',d).
+att_prop_i(2,3,'VarServiceExtName','',d).
+att_prop_i(2,3,'FullName','LugarId',v).
+att_prop_i(2,1,'ExternalName','PaisId',d).
+att_prop_i(2,1,'ExternalNamespace','ObligatorioFinal',d).
+att_prop_i(2,1,'EmptyAsNull','Yes',d).
+att_prop_i(2,1,idBasedOn,94,v).
+att_prop_i(2,1,'AUTONUMBER','-1',v).
+att_prop_i(2,1,'AUTONUMBER_START','1',d).
+att_prop_i(2,1,'AUTONUMBER_STEP','1',d).
+att_prop_i(2,1,'AUTONUMBER_FORREPLICATION','-1',d).
+att_prop_i(2,1,'ATT_INITIAL_VALUE','',d).
+att_prop_i(2,1,'AttRegEx','',d).
+att_prop_i(2,1,'AttValidationFailedMsg','',d).
+att_prop_i(2,1,'DownloadOffline','0',d).
+att_prop_i(2,1,'VarServiceExtName','',d).
+att_prop_i(2,1,'FullName','PaisId',v).
+att_prop_i(2,40000,'ExternalName','',d).
+att_prop_i(2,40000,'ExternalNamespace','',d).
+att_prop_i(2,40000,'EmptyAsNull','Yes',d).
+att_prop_i(2,40000,idBasedOn,'',d).
+att_prop_i(2,40000,'AUTONUMBER','0',d).
+att_prop_i(2,40000,'ATT_INITIAL_VALUE','',d).
+att_prop_i(2,40000,'AttRegEx','',d).
+att_prop_i(2,40000,'AttValidationFailedMsg','',d).
+att_prop_i(2,40000,'FullName','',v).
+ 
+tbl_prop_i(2,2,'AllDirSuper',[ [ 1,[ 1 ] ] ],v).
+tbl_prop_i(2,7,'AllDirSuper',[ [ 3,[ 5 ] ] ],v).
+tbl_prop_i(2,3,'AllDirSuper',[ [ 2,[ 3 ] ] ],v).
+tbl_prop_i(2,1,'DirSubor',[ [ 2,[ 1 ] ],[ 3,[ 7 ] ],[ 7,[ 15 ] ] ],v).
+tbl_prop_i(2,2,'DirSubor',[ [ 3,[ 3 ] ] ],v).
+tbl_prop_i(2,2,'DirSuper',[ [ 1,[ 1 ] ] ],v).
+tbl_prop_i(2,3,'DirSuper',[ [ 2,[ 3 ] ] ],v).
+ 
+tbl_att_prop_i(2,7,13,'AllowNulls',n).
+tbl_att_prop_i(2,7,14,'AllowNulls',n).
+tbl_att_prop_i(2,7,5,'AllowNulls',n).
+tbl_att_prop_i(2,3,5,'AllowNulls',n).
+tbl_att_prop_i(2,3,5,'AUTONUMBER',y).
+tbl_att_prop_i(2,3,8,'AllowNulls',n).
+tbl_att_prop_i(2,3,19,'AllowNulls',n).
+tbl_att_prop_i(2,3,3,'AllowNulls',n).
+tbl_att_prop_i(2,3,20,'AllowNulls',n).
+tbl_att_prop_i(2,3,40000,'AllowNulls',n).
+tbl_att_prop_i(2,2,3,'AllowNulls',n).
+tbl_att_prop_i(2,2,3,'AUTONUMBER',y).
+tbl_att_prop_i(2,2,4,'AllowNulls',n).
+tbl_att_prop_i(2,2,1,'AllowNulls',n).
+tbl_att_prop_i(2,1,1,'AllowNulls',n).
+tbl_att_prop_i(2,1,1,'AUTONUMBER',y).
+tbl_att_prop_i(2,1,2,'AllowNulls',n).
+ 
+var_prop_i(2,'Paisid',idBasedOn,'',v).
+var_prop_i(2,'Espectaculoid',idBasedOn,'',v).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+pgm_callprotocol_i(proc,27,'LISTADOPASESPORPAISYESPECTACULO','HTTP','Secure').
+ 
+ 
+pgm_main_info_i(proc,27,'LISTADOPASESPORPAISYESPECTACULO',[ 41,'ALISTADOPASESPORPAISYESPECTACULO','Listado Pases Por Pais YEspectaculo','','','','HTTP' ]).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

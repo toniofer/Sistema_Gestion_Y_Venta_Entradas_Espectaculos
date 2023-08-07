@@ -1,0 +1,11 @@
+bc_dt_elem_i([ 0,7,0 ],'Invitacionid',allownulls,no).
+bc_dt_elem_i([ 0,7,0 ],'Invitacionnombreinvitado',allownulls,no).
+bc_dt_elem_i([ 0,7,0 ],'Espectaculoid',allownulls,no).
+bc_dt_elem_i([ 0,7,0 ],'Espectaculonombre',readonly,yes).
+bc_dt_elem_i([ 0,7,0 ],'Espectaculonombre',allownulls,no).
+bc_dt_elem_i([ 0,7,0 ],'Espectaculofecha',readonly,yes).
+bc_dt_elem_i([ 0,7,0 ],'Espectaculofecha',allownulls,no).
+bc_dt_elem_i([ 0,7,0 ],'Espectaculoinvitacionesentregadas',readonly,yes).
+bc_dt_elem_i([ 0,7,0 ],'Espectaculoinvitacionesentregadas',allownulls,no).
+bc_dt_elem_i([ 0,7,0 ],'Espectaculoinvitacionesdisponibles',readonly,yes).
+ 

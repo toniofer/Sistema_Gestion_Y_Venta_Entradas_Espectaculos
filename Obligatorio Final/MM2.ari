@@ -1,0 +1,174 @@
+ 
+ 
+ 
+pgm_main_i(proc,18,'GENERAL\SERVICES\NOTIFICATIONSREGISTRATIONHANDLER',[ 41,'GENERAL\SERVICES\ANOTIFICATIONSREGISTRATIONHANDLER','Notifications Registration Handler','','','','INTERNAL' ]).
+pgm_main_i(proc,16,'EMITIRTICKET',[ 41,'AEMITIRTICKET','Emitir Ticket','','','','HTTP' ]).
+pgm_main_i(proc,24,'LISTADOCONCIERTOSPORFECHA',[ 41,'ALISTADOCONCIERTOSPORFECHA','Listado Conciertos Por Fecha','','','','HTTP' ]).
+pgm_main_i(proc,15,'LISTADOESPECTACULOSPORTIPO',[ 41,'ALISTADOESPECTACULOSPORTIPO','Listado Espectáculos Por Tipo','','','','HTTP' ]).
+pgm_main_i(proc,27,'LISTADOPASESPORPAISYESPECTACULO',[ 41,'ALISTADOPASESPORPAISYESPECTACULO','Listado Pases Por Pais YEspectaculo','','','','HTTP' ]).
+pgm_main_i(proc,23,'LISTADOESPECTACULOSGENERAL',[ 41,'ALISTADOESPECTACULOSGENERAL','Listado Espectáculos General','','','','HTTP' ]).
+pgm_main_i(mnproc,2,'PAIS_DATAPROVIDER',[ 41,'APAIS_DATAPROVIDER','Pais_Data Provider','','','','INTERNAL' ]).
+pgm_main_i(mnproc,3,'LUGAR_DATAPROVIDER',[ 41,'ALUGAR_DATAPROVIDER','Lugar_Data Provider','','','','INTERNAL' ]).
+pgm_main_i(mnproc,5,'TIPOESPECTACULO_DATAPROVIDER',[ 41,'ATIPOESPECTACULO_DATAPROVIDER','Tipo Espectaculo_Data Provider','','','','INTERNAL' ]).
+pgm_main_i(proc,17,'EMITIRINVITACION',[ 41,'AEMITIRINVITACION','Emitir Invitacion','','','','HTTP' ]).
+pgm_main_i(web,11,'WWESPECTACULO',[ 41,'WWESPECTACULO','Work With Espectaculo','','','','' ]).
+ 
+pgm_prop_i(proc,18,'GENERAL\SERVICES\ANOTIFICATIONSREGISTRATIONHANDLER',idISPRCWEBSERVICE,'-1').
+pgm_prop_i(proc,18,'GENERAL\SERVICES\NOTIFICATIONSREGISTRATIONHANDLER',idISPRCWEBSERVICE,'-1').
+pgm_prop_i(proc,18,'GENERAL\SERVICES\ANOTIFICATIONSREGISTRATIONHANDLER','SOAP','0').
+pgm_prop_i(proc,18,'GENERAL\SERVICES\NOTIFICATIONSREGISTRATIONHANDLER','SOAP','0').
+pgm_prop_i(proc,19,'GENERAL\SERVICES\GXAFTEREVENTREPLICATOR',idISPRCWEBSERVICE,'-1').
+pgm_prop_i(proc,19,'GENERAL\SERVICES\GXAFTEREVENTREPLICATOR','SOAP','0').
+pgm_prop_i(mnproc,1,'GENERAL\UI\SIDEBARITEMSDP','OutputSDT',o(26,'GeneXusUnanimo\SidebarItems')).
+pgm_prop_i(proc,20,'GENERAL\SERVICES\GXBEFOREEVENTREPLICATOR',idISPRCWEBSERVICE,'-1').
+pgm_prop_i(proc,20,'GENERAL\SERVICES\GXBEFOREEVENTREPLICATOR','SOAP','0').
+pgm_prop_i(proc,21,'GENERAL\SERVICES\GXONPENDINGEVENTFAILED',idISPRCWEBSERVICE,'-1').
+pgm_prop_i(proc,21,'GENERAL\SERVICES\GXONPENDINGEVENTFAILED','SOAP','0').
+pgm_prop_i(proc,22,'GENERAL\SERVICES\DIRECTIONSSERVICEREQUEST',idISPRCWEBSERVICE,'-1').
+pgm_prop_i(proc,22,'GENERAL\SERVICES\DIRECTIONSSERVICEREQUEST','SOAP','0').
+pgm_prop_i(web,32,'ESPECTACULOPRODUCTOWC','WEB_COMP','Yes').
+pgm_prop_i(web,32,'ESPECTACULOPRODUCTOWC','URLAccess','No').
+pgm_prop_i(web,30,'ESPECTACULOSECTORWC','WEB_COMP','Yes').
+pgm_prop_i(web,30,'ESPECTACULOSECTORWC','URLAccess','No').
+pgm_prop_i(web,21,'ENTRADAGENERAL','WEB_COMP','Yes').
+pgm_prop_i(web,21,'ENTRADAGENERAL','URLAccess','No').
+pgm_prop_i(web,16,'PAISGENERAL','WEB_COMP','Yes').
+pgm_prop_i(web,16,'PAISGENERAL','URLAccess','No').
+pgm_prop_i(web,25,'LUGARESPECTACULOWC','WEB_COMP','Yes').
+pgm_prop_i(web,25,'LUGARESPECTACULOWC','URLAccess','No').
+pgm_prop_i(web,22,'TIPOESPECTACULOGENERAL','WEB_COMP','Yes').
+pgm_prop_i(web,22,'TIPOESPECTACULOGENERAL','URLAccess','No').
+pgm_prop_i(trn,6,'TIPOESPECTACULO',idISBUSINESSCOMPONENT,'-1').
+pgm_prop_i(trn,6,'TIPOESPECTACULO',idISBCWEBSERVICE,'-1').
+pgm_prop_i(trn,6,'TIPOESPECTACULO','WEBSERVICE_PROTOCOL','REST').
+pgm_prop_i(web,19,'PAISENTRADAWC','WEB_COMP','Yes').
+pgm_prop_i(web,19,'PAISENTRADAWC','URLAccess','No').
+pgm_prop_i(mnproc,4,'PASE_DATAPROVIDER','GENERATE','No').
+pgm_prop_i(web,26,'INVITACIONGENERAL','WEB_COMP','Yes').
+pgm_prop_i(web,26,'INVITACIONGENERAL','URLAccess','No').
+pgm_prop_i(trn,7,'INVITACION',idISBUSINESSCOMPONENT,'-1').
+pgm_prop_i(web,33,'PASEGENERAL','WEB_COMP','Yes').
+pgm_prop_i(web,33,'PASEGENERAL','URLAccess','No').
+pgm_prop_i(web,1,'GENERAL\UI\MASTERUNANIMOSIDEBAR','WEB_COMP','Master').
+pgm_prop_i(web,2,'GENERAL\UI\MASTERPROMPT','WEB_COMP','Master').
+pgm_prop_i(web,20,'PAISPASEWC','WEB_COMP','Yes').
+pgm_prop_i(web,20,'PAISPASEWC','URLAccess','No').
+pgm_prop_i(trn,4,'ENTRADA',idISBUSINESSCOMPONENT,'-1').
+pgm_prop_i(web,31,'ESPECTACULOINVITACIONWC','WEB_COMP','Yes').
+pgm_prop_i(web,31,'ESPECTACULOINVITACIONWC','URLAccess','No').
+pgm_prop_i(proc,16,'AEMITIRTICKET','CALL_PROTOCOL','HTTP').
+pgm_prop_i(proc,16,'EMITIRTICKET','CALL_PROTOCOL','HTTP').
+pgm_prop_i(proc,24,'ALISTADOCONCIERTOSPORFECHA','CALL_PROTOCOL','HTTP').
+pgm_prop_i(proc,24,'LISTADOCONCIERTOSPORFECHA','CALL_PROTOCOL','HTTP').
+pgm_prop_i(proc,15,'ALISTADOESPECTACULOSPORTIPO','CALL_PROTOCOL','HTTP').
+pgm_prop_i(proc,15,'LISTADOESPECTACULOSPORTIPO','CALL_PROTOCOL','HTTP').
+pgm_prop_i(proc,27,'ALISTADOPASESPORPAISYESPECTACULO','CALL_PROTOCOL','HTTP').
+pgm_prop_i(proc,27,'LISTADOPASESPORPAISYESPECTACULO','CALL_PROTOCOL','HTTP').
+pgm_prop_i(proc,23,'ALISTADOESPECTACULOSGENERAL','CALL_PROTOCOL','HTTP').
+pgm_prop_i(proc,23,'LISTADOESPECTACULOSGENERAL','CALL_PROTOCOL','HTTP').
+pgm_prop_i(web,24,'LUGARGENERAL','WEB_COMP','Yes').
+pgm_prop_i(web,24,'LUGARGENERAL','URLAccess','No').
+pgm_prop_i(trn,1,'PAIS',idISBUSINESSCOMPONENT,'-1').
+pgm_prop_i(trn,2,'LUGAR',idISBUSINESSCOMPONENT,'-1').
+pgm_prop_i(web,17,'PAISLUGARWC','WEB_COMP','Yes').
+pgm_prop_i(web,17,'PAISLUGARWC','URLAccess','No').
+pgm_prop_i(web,29,'ESPECTACULOGENERAL','WEB_COMP','Yes').
+pgm_prop_i(web,29,'ESPECTACULOGENERAL','URLAccess','No').
+pgm_prop_i(web,23,'TIPOESPECTACULOESPECTACULOWC','WEB_COMP','Yes').
+pgm_prop_i(web,23,'TIPOESPECTACULOESPECTACULOWC','URLAccess','No').
+pgm_prop_i(web,18,'PAISESPECTACULOWC','WEB_COMP','Yes').
+pgm_prop_i(web,18,'PAISESPECTACULOWC','URLAccess','No').
+pgm_prop_i(mnproc,2,'APAIS_DATAPROVIDER','OutputSDT',o(0,'Pais')).
+pgm_prop_i(mnproc,2,'PAIS_DATAPROVIDER','OutputSDT',o(0,'Pais')).
+pgm_prop_i(mnproc,3,'ALUGAR_DATAPROVIDER','OutputSDT',o(0,'Lugar')).
+pgm_prop_i(mnproc,3,'LUGAR_DATAPROVIDER','OutputSDT',o(0,'Lugar')).
+pgm_prop_i(mnproc,5,'ATIPOESPECTACULO_DATAPROVIDER',idISWEBSERVICE,'-1').
+pgm_prop_i(mnproc,5,'TIPOESPECTACULO_DATAPROVIDER',idISWEBSERVICE,'-1').
+pgm_prop_i(mnproc,5,'ATIPOESPECTACULO_DATAPROVIDER','DPRV_WSPROTOCOL','SOAP').
+pgm_prop_i(mnproc,5,'TIPOESPECTACULO_DATAPROVIDER','DPRV_WSPROTOCOL','SOAP').
+pgm_prop_i(mnproc,5,'ATIPOESPECTACULO_DATAPROVIDER','OutputSDT',o(0,'TipoEspectaculo')).
+pgm_prop_i(mnproc,5,'TIPOESPECTACULO_DATAPROVIDER','OutputSDT',o(0,'TipoEspectaculo')).
+pgm_prop_i(proc,17,'AEMITIRINVITACION','CALL_PROTOCOL','HTTP').
+pgm_prop_i(proc,17,'EMITIRINVITACION','CALL_PROTOCOL','HTTP').
+ 
+model_wrkinfo_i([ '.NET','CloudNET002' ]).
+ 
+model_info_i([ 'Design','CloudNET002',1 ]).
+ 
+datastore_i(1,'DS_LAST_CHANGE','').
+datastore_i(1,'LOCK_RETRY','10').
+datastore_i(1,'WAIT_RECORD','0').
+datastore_i(1,'ISOLATION_LEVEL','CR').
+datastore_i(1,'SQLSERVER_VERSION','10').
+datastore_i(1,'COMMENT_ON','No').
+datastore_i(1,'DFT_TMP_TBLSPACE','').
+datastore_i(1,'DFT_IDX_TBLSPACE','').
+datastore_i(1,'DFT_TBL_TBLSPACE','').
+datastore_i(1,'DCL_REF_INT_DB','Yes').
+datastore_i(1,'PRIMARY_KEY_TYPE','PK').
+datastore_i(1,'CS_SCHEMA','').
+datastore_i(1,'SORT_ATTRIBUTES','Yes').
+datastore_i(1,'JRN400','QSQJRN').
+datastore_i(1,'CREATE_SAVF','Yes').
+datastore_i(1,'PGMLIB','').
+datastore_i(1,'DTALIB','').
+datastore_i(1,'RecycleRWMin','30').
+datastore_i(1,'RecycleRWType','1').
+datastore_i(1,'RecycleRW','-1').
+datastore_i(1,'POOL_STARTUP','No').
+datastore_i(1,'POOLSIZE_RW','10').
+datastore_i(1,'UnlimitedRWPool','-1').
+datastore_i(1,'PoolRWEnabled','-1').
+datastore_i(1,'CS_RPCPGML','').
+datastore_i(1,'DS_READ_REPLICA','No').
+datastore_i(1,'JDBC_DATASOURCE','').
+datastore_i(1,'USE_JDBC_DATASOURCE','0').
+datastore_i(1,'DS_DBMS_ADDINFO','Timeout=120').
+datastore_i(1,'USER_PASSWORD','uÜF\Y˜ê9â:gÌ2ÌNgsWR‡k').
+datastore_i(1,'USER_ID',uHbeh98wD0WsWTws).
+datastore_i(1,'TRUSTED_CONNECTION','No').
+datastore_i(1,'CS_CONNECT','First').
+datastore_i(1,'DBMS_PORT','').
+datastore_i(1,'CS_SERVER','trialapps3.genexus.com').
+datastore_i(1,'CS_DBNAME','Id211ffcfcef710b953a1a5ddd24cdc0e5').
+datastore_i(1,'CS_FLEDSNAME','').
+datastore_i(1,'CS_DRVNAME','sql server').
+datastore_i(1,'CS_DSNAME','').
+datastore_i(1,'DB_URL','').
+datastore_i(1,'JDBC_CUSTOM_URL','0').
+datastore_i(1,'JDBC_CUSTOM_DRIVER','').
+datastore_i(1,'JDBC_DRIVER','com.microsoft.sqlserver.jdbc.SQLServerDriver').
+datastore_i(1,'CONNECT_METHOD','OPSYS').
+datastore_i(1,'ACCESS_TECHNO','ADONET').
+datastore_i(1,'MAIN_DS','-1').
+datastore_i(1,'REORG_GEN','8').
+datastore_i(1,'HelpKeyword','20').
+datastore_i(1,'DBMS',12).
+datastore_i(1,'NAME','Default').
+ 
+subview_i(2,514,1).
+subview_i(2,515,1).
+subview_i(2,516,1).
+ 
+subtype_group_i(2,1,[ 'PaisCompra',[ [ 12,1 ],[ 27,2 ] ] ]).
+subtype_group_i(2,2,[ 'PaisOrigen',[ [ 7,1 ],[ 28,2 ] ] ]).
+subtype_group_i(2,3,[ 'PaisCompraPase',[ [ 15,1 ],[ 35,2 ] ] ]).
+ 
+culture_id_i(spa).
+ 
+lng_i(1,[ 'Spanish','Spanish',spa ]).
+ 
+lng_prop_i(1,'IsRightToLeft','0',d).
+lng_prop_i(1,'ISOLangCode','ES',v).
+lng_prop_i(1,'ISOCountryCode','ES',v).
+lng_prop_i(1,'Codepage','1252',v).
+lng_prop_i(1,'LanguageLocalization','',d).
+lng_prop_i(1,'LangDateFormat','SPA',v).
+lng_prop_i(1,'LangTimeFormat','24',v).
+lng_prop_i(1,'LangDecimalPoint',',',v).
+lng_prop_i(1,'FullyQualifiedName','Spanish',d).
+ 
+ver_stamp('20230807.074646').
+ 
+ver_stamp(date(2023,8,7),time(4,46,51,45)).
+ 

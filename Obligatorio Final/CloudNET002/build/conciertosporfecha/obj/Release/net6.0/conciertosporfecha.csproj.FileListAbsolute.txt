@@ -1,0 +1,10 @@
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\web\bin\conciertosporfecha.dll
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\web\bin\conciertosporfecha.pdb
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\conciertosporfecha\obj\Release\net6.0\conciertosporfecha.csproj.AssemblyReference.cache
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\conciertosporfecha\obj\Release\net6.0\conciertosporfecha.GeneratedMSBuildEditorConfig.editorconfig
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\conciertosporfecha\obj\Release\net6.0\conciertosporfecha.csproj.CoreCompileInputs.cache
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\conciertosporfecha\obj\Release\net6.0\conciertosporfecha.csproj.CopyComplete
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\conciertosporfecha\obj\Release\net6.0\conciertosporfecha.dll
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\conciertosporfecha\obj\Release\net6.0\refint\conciertosporfecha.dll
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\conciertosporfecha\obj\Release\net6.0\conciertosporfecha.pdb
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\conciertosporfecha\obj\Release\net6.0\ref\conciertosporfecha.dll

@@ -1,0 +1,414 @@
+spec_i([ proc,24,'Listado Conciertos Por Fecha','ListadoConciertosPorFecha',78,spa,'18_0_3-171579' ]).
+ 
+struct_i(2,1,[],[]).
+ 
+level_i(2,[ 3,[ [ 3,many ],[ 2,one ] ],[],[],[ [ [ 3,2 ],[ 19,6,40000,4,8,20,3 ] ] ],[ [ [ 3,2 ],[] ] ],[ 6 ],'IESPECTACULO2',[],[] ]).
+ 
+tw_i(2,[ [ 2,[ [ 3,3,3 ] ] ] ]).
+ 
+lwi_i(2,[ [ c([ t(19,2),t(=,10),t('Fechaconcierto',23) ],[ 19 ]) ] ]).
+ 
+ 
+ 
+ 
+ta_i(2,[ [ [ 3,3 ],[ 3,19 ],[ 3,6 ],[ 3,40000 ],[ 2,4 ],[ 3,8 ],[ 3,20 ] ] ]).
+ 
+las_i(2,[ [ 19,6,40000,4,8,20,3 ] ]).
+ 
+lac_i(2,[ [] ]).
+ 
+ 
+ 
+ 
+ 
+ 
+default_i(e('Output',2,2,'''FIL''')).
+ 
+rule_i(0,datastore(1,'DS_LAST_CHANGE','')).
+rule_i(0,datastore(1,'LOCK_RETRY','10')).
+rule_i(0,datastore(1,'WAIT_RECORD','0')).
+rule_i(0,datastore(1,'ISOLATION_LEVEL','CR')).
+rule_i(0,datastore(1,'SQLSERVER_VERSION','10')).
+rule_i(0,datastore(1,'COMMENT_ON','No')).
+rule_i(0,datastore(1,'DFT_TMP_TBLSPACE','')).
+rule_i(0,datastore(1,'DFT_IDX_TBLSPACE','')).
+rule_i(0,datastore(1,'DFT_TBL_TBLSPACE','')).
+rule_i(0,datastore(1,'DCL_REF_INT_DB','Yes')).
+rule_i(0,datastore(1,'PRIMARY_KEY_TYPE','PK')).
+rule_i(0,datastore(1,'CS_SCHEMA','')).
+rule_i(0,datastore(1,'SORT_ATTRIBUTES','Yes')).
+rule_i(0,datastore(1,'JRN400','QSQJRN')).
+rule_i(0,datastore(1,'CREATE_SAVF','Yes')).
+rule_i(0,datastore(1,'PGMLIB','')).
+rule_i(0,datastore(1,'DTALIB','')).
+rule_i(0,datastore(1,'RecycleRWMin','30')).
+rule_i(0,datastore(1,'RecycleRWType','1')).
+rule_i(0,datastore(1,'RecycleRW','-1')).
+rule_i(0,datastore(1,'POOL_STARTUP','No')).
+rule_i(0,datastore(1,'POOLSIZE_RW','10')).
+rule_i(0,datastore(1,'UnlimitedRWPool','-1')).
+rule_i(0,datastore(1,'PoolRWEnabled','-1')).
+rule_i(0,datastore(1,'CS_RPCPGML','')).
+rule_i(0,datastore(1,'DS_READ_REPLICA','No')).
+rule_i(0,datastore(1,'JDBC_DATASOURCE','')).
+rule_i(0,datastore(1,'USE_JDBC_DATASOURCE','0')).
+rule_i(0,datastore(1,'DS_DBMS_ADDINFO','Timeout=120')).
+rule_i(0,datastore(1,'USER_PASSWORD','uÜF\Y˜ê9â:gÌ2ÌNgsWR‡k')).
+rule_i(0,datastore(1,'USER_ID',uHbeh98wD0WsWTws)).
+rule_i(0,datastore(1,'TRUSTED_CONNECTION','No')).
+rule_i(0,datastore(1,'CS_CONNECT','First')).
+rule_i(0,datastore(1,'DBMS_PORT','')).
+rule_i(0,datastore(1,'CS_SERVER','trialapps3.genexus.com')).
+rule_i(0,datastore(1,'CS_DBNAME','Id211ffcfcef710b953a1a5ddd24cdc0e5')).
+rule_i(0,datastore(1,'CS_FLEDSNAME','')).
+rule_i(0,datastore(1,'CS_DRVNAME','sql server')).
+rule_i(0,datastore(1,'CS_DSNAME','')).
+rule_i(0,datastore(1,'DB_URL','')).
+rule_i(0,datastore(1,'JDBC_CUSTOM_URL','0')).
+rule_i(0,datastore(1,'JDBC_CUSTOM_DRIVER','')).
+rule_i(0,datastore(1,'JDBC_DRIVER','com.microsoft.sqlserver.jdbc.SQLServerDriver')).
+rule_i(0,datastore(1,'CONNECT_METHOD','OPSYS')).
+rule_i(0,datastore(1,'ACCESS_TECHNO','ADONET')).
+rule_i(0,datastore(1,'MAIN_DS','-1')).
+rule_i(0,datastore(1,'REORG_GEN','8')).
+rule_i(0,datastore(1,'HelpKeyword','20')).
+rule_i(0,datastore(1,'DBMS',12)).
+rule_i(0,datastore(1,'NAME','Default')).
+rule_i(0,prop(idNULLS_BEHAVIOR,idNB_Current)).
+rule_i(0,prop('PWFCallable','0')).
+rule_i(0,prop('ObjectVisibility','Public')).
+rule_i(0,prop('FullyQualifiedName','ListadoConciertosPorFecha')).
+rule_i(0,prop('GenerateObject','-1')).
+rule_i(0,prop('CS_ORA_FORUPD','UMPV')).
+rule_i(0,prop('Optimize_copy','UMPV')).
+rule_i(0,prop('JOIN_TYPE','UMPV')).
+rule_i(0,prop('DBMS_JOINS','UMPV')).
+rule_i(0,prop('NULLVALUE_AS_NULL','UMPV')).
+rule_i(0,prop('INITIALIZE_NEW','UMPV')).
+rule_i(0,prop('STD_FUNC_OBJECT','Yes')).
+rule_i(0,prop('SPC_WARNINGS_DISABLED','spc0096 spc0107 spc0142')).
+rule_i(0,prop('TRNEND','Yes')).
+rule_i(0,prop('AUTOCENTER','UMPV')).
+rule_i(0,prop('LSTPFOOT','YES')).
+rule_i(0,prop('CANCEL','YES')).
+rule_i(0,prop('CONFIRM','UMPV')).
+rule_i(0,prop('TRNCFM','UMPV')).
+rule_i(0,prop('PRINT_CUST_LAYOUT','UMPV')).
+rule_i(0,prop('OUTPUT','FIL')).
+rule_i(0,prop(idConnectivitySupport,idInherit)).
+rule_i(0,prop(idISPRCWEBSERVICE,'0')).
+rule_i(0,prop('AppGenerator','1')).
+rule_i(0,prop('AppLocation','')).
+rule_i(0,prop('AppIcon','')).
+rule_i(0,prop('AppTitle','')).
+rule_i(0,prop('WEB_SECURITY_LEVEL','High')).
+rule_i(0,prop('HTTP_PROTOCOL','Secure')).
+rule_i(0,prop('USE_ENCRYPTION','NO')).
+rule_i(0,prop('COMPRESS_HTML','UMPV')).
+rule_i(0,prop('EXECUTE_IN_NEW_UTL','0')).
+rule_i(0,prop('Theme',o(102,'ObligatorioPrueba001'))).
+rule_i(0,prop('OBJECT_METADATA','')).
+rule_i(0,prop('CALL_PROTOCOL','HTTP')).
+rule_i(0,prop('IsMain','-1')).
+rule_i(0,prop(sessiontype,'RW')).
+rule_i(0,prop('Folder',o(120,'Root Module'))).
+rule_i(0,prop('ObjDesc','Listado Conciertos Por Fecha')).
+rule_i(0,prop('ObjName','ListadoConciertosPorFecha')).
+rule_i(0,maingen(41)).
+rule_i(0,prop('PGMTYPE',main)).
+rule_i(0,output_file(t('ConciertosPorFecha.pdf',3),t(pdf,3))).
+rule_i(0,parm([ 'Fechaconcierto' ],[])).
+rule_i(0,parmio([ [ 'Fechaconcierto',in ] ])).
+rule_i(0,output('FIL')).
+ 
+a_i(1,1,f,'Line',[],[ [],[ t(0,3) ] ]).
+a_i(2,1,f,'Err',[],[ [],[ t('0',3) ] ]).
+a_i(3,2,t,3,[],[ [],'IESPECTACULO2',[] ]).
+a_i(4,2,r,2,[],[ [ [ 3,3,3 ] ],'ILUGAR',[] ]).
+ 
+v_i(f,i,1,[]).
+v_i(f,o,1,'Line').
+v_i(f,i,2,[]).
+v_i(f,o,2,'Err').
+v_i(t,i,3,[]).
+v_i(t,o,3,3).
+v_i(t,o,3,19).
+v_i(t,o,3,6).
+v_i(t,o,3,40000).
+v_i(t,o,3,8).
+v_i(t,o,3,20).
+v_i(r,i,4,3).
+v_i(r,o,4,4).
+ 
+ 
+ 
+ 
+ 
+ 
+attri_i('Output',[ 'Gx_out',char,3,0,'',1,'','',14 ]).
+attri_i(5,[ 'EspectaculoId',int,4,0,'ZZZ9',0,'Espectaculo Id','',0 ]).
+attri_i(3,[ 'LugarId',int,4,0,'ZZZ9',0,'Lugar Id','',0 ]).
+attri_i(6,[ 'TipoEspectaculoId',int,4,0,'ZZZ9',0,'Tipo Espectaculo Id','',0 ]).
+attri_i(19,[ 'EspectaculoFecha',date,8,0,'99/99/99',0,'Espectaculo Fecha','',0 ]).
+attri_i('Page',[ 'Gx_page',int,6,0,'ZZZZZ9',0,'Page number','',13 ]).
+attri_i('Line',[ 'Gx_line',int,6,0,'ZZZZZ9',0,'Line number','',12 ]).
+attri_i(4,[ 'LugarNombre',char,60,0,'',0,'Lugar Nombre','',0 ]).
+attri_i(8,[ 'EspectaculoNombre',char,60,0,'',0,'Espectaculo Nombre','',0 ]).
+attri_i(20,[ 'EspectaculoAfiche',bits,4,0,'',0,'Espectaculo Afiche','',0 ]).
+attri_i(40000,[ 'EspectaculoAfiche_GXI',svchar,2048,0,'',0,'',[],0 ]).
+attri_i('Errmsg',[ 'Gx_emsg',char,70,0,'',1,'Error text','',10 ]).
+attri_i('Err',[ 'Gx_err',int,3,0,'ZZ9',1,'Error code','',9 ]).
+attri_i('Fechaconcierto',[ 'FechaConcierto',date,8,0,'99/99/99',0,'Fecha Concierto','',8 ]).
+ 
+table_i(2,[ 'Lugar',[ 3,4 ],'Lugar','Lugar' ]).
+table_i(3,[ 'Espectaculo',[ 5,8,19,6,3,20,40000 ],'Espectaculo','Espectaculo' ]).
+ 
+index_i(3,[ 'IESPECTACULO',u,[ 5 ],'IEspectaculo' ]).
+index_i(3,[ 'IESPECTACULO2',d,[ 6 ],'IEspectaculo2' ]).
+index_i(2,[ 'ILUGAR',u,[ 3 ],'ILugar' ]).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+add_att_i(bits,2,40000,20,'EspectaculoAfiche_GXI',[ svchar,2048,0,0 ]).
+add_att_i(bits,2,40001,44,'LugarFoto_GXI',[ svchar,2048,0,0 ]).
+add_att_i(bits,2,40002,43,'PaisBandera_GXI',[ svchar,2048,0,0 ]).
+ 
+ 
+ 
+ 
+start_i(2,0,0,[ [ [ 6,3,'2',= ] ],many ]).
+ 
+end_i(2,0,0,[ [ [ t(6,2),t(=,10),t('2',3) ] ] ]).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+dom_info_i(95,[ 'Nombre' ]).
+dom_info_i(94,[ 'Id' ]).
+ 
+ 
+break_i(2,nvg,1,[],[ [ 20,8,4,40000 ],[ 6,19 ],[] ]).
+break_i(1,rpt,0,[],[ [],[],[] ]).
+ 
+b_group_i(1,1,lit,0,1,6).
+b_group_i(1,2,nvg,2,2,2).
+b_group_i(2,1,lit,0,8,12).
+b_group_i(1,3,lit,0,14,0).
+ 
+b_line_i(0,1,1,cmd,0,[]).
+b_line_i(1,1,1,pb,0,[ t('Printblock1',29,0,7) ]).
+b_line_i([ 1,0 ],1,1,line,0,[ t(' ',3,0,0) ]).
+b_line_i([ 1,1 ],1,1,line,1,[ t('LISTADO DE CONCIERTOS EN FECHA:',3,1,22),t('Fechaconcierto',23,1,70) ]).
+b_line_i([ 1,5 ],1,1,line,5,[ t(' ',3,5,0) ]).
+b_line_i(2,2,1,cmd,8,[ t('',121,2,0),t(table,3,2,10),t(3,3,2,10) ]).
+b_line_i(4,2,1,pb,8,[ t('Printblock2',29,8,8) ]).
+b_line_i([ 4,0 ],2,1,line,8,[ t(20,2,0,9),t(40000,2,0,9) ]).
+b_line_i([ 4,1 ],2,1,line,9,[ t(8,2,1,26),t(4,2,1,64) ]).
+b_line_i([ 4,3 ],2,1,line,11,[ t(' ',3,3,0) ]).
+b_line_i(5,2,1,cmd,12,[ t('',128,5,0) ]).
+ 
+ 
+ 
+ 
+ 
+ 
+page_layout_i([ 66,0,6 ]).
+ 
+ 
+ 
+paper_info_i([ 0,256,'',11909,16834,0,0,0,0,1 ]).
+ 
+ppi_i([ 100,100 ]).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+lit_i(2,1,t('LISTADO DE CONCIERTOS EN FECHA:',3),[ font('Microsoft Sans Serif',12,[]),rect(160,27,467,48),outstyle(none),align(left),valign(top),fore(rgb(0,0,0)),border(1),ctlname('Gxreportlabel1'),gxcolor([]) ]).
+lit_i(8,1,t('Fechaconcierto',23),[ font('Microsoft Sans Serif',12,[]),rect(493,27,559,49),outstyle(none),align(right),valign(top),noclip,fore(rgb(0,0,0)),border(1),format(0),ctlname('&fechaconcierto'),ctrltype(edit,8),ispwd(0),gxcolor([]) ]).
+lit_i(1,1,window,[ title('Text'),rect(0,0,827,100),outstyle(none),fill,graph,back(rgb(0,0,0)),fore(rgb(0,0,0)),border(0),ctlname('Printblock1'),align(left),valign(top),gxcolor([]),defgxcolor('BLK','WHT') ]).
+lit_i(5,4,t(20,2),[ font('Microsoft Sans Serif',8,[]),rect(67,13,134,53),outstyle(none),align(left),valign(top),fore(rgb(0,0,0)),border(1),format(0),ctlname('20'),ctrltype(edit,5),ispwd(0),gxcolor([]) ]).
+lit_i(6,4,t(8,2),[ font('Microsoft Sans Serif',10,[]),rect(187,27,563,46),outstyle(none),align(left),valign(top),noclip,fore(rgb(0,0,0)),border(1),format(0),ctlname('8'),ctrltype(edit,6),ispwd(0),gxcolor([]) ]).
+lit_i(7,4,t(4,2),[ font('Microsoft Sans Serif',10,[]),rect(453,27,829,46),outstyle(none),align(left),valign(top),noclip,fore(rgb(0,0,0)),border(1),format(0),ctlname('4'),ctrltype(edit,7),ispwd(0),gxcolor([]) ]).
+lit_i(9,4,rect(9),[ rect(0,0,820,0),outstyle(none),fill,back(rgb(0,0,0)),fore(rgb(0,0,0)),border(1),ctlname('Gxreportline1'),gxcolor([]),borderstyle(0) ]).
+lit_i(10,4,rect(10),[ rect(0,67,833,67),outstyle(none),fill,back(rgb(0,0,0)),fore(rgb(0,0,0)),border(1),ctlname('Gxreportline2'),gxcolor([]),borderstyle(0) ]).
+lit_i(3,4,window,[ title('Text'),rect(0,0,827,70),outstyle(none),fill,graph,back(rgb(0,0,0)),fore(rgb(0,0,0)),border(0),ctlname('Printblock2'),align(left),valign(top),gxcolor([]),defgxcolor('BLK','WHT') ]).
+ 
+grid_i(7,15).
+ 
+ 
+ 
+form_class_i(1,'Graphic').
+ 
+ 
+ctrl_info_i(1,8,[ [ 0,0,sort,[],[],0,0,5,0,0 ] ]).
+ 
+ 
+calling_main_i(1,24).
+ 
+att_prop_i(2,20,'ExternalName','EspectaculoAfiche',d).
+att_prop_i(2,20,'ExternalNamespace','ObligatorioFinal',d).
+att_prop_i(2,20,'EmptyAsNull','Yes',d).
+att_prop_i(2,20,'ExternalStorage','-1',d).
+att_prop_i(2,20,idBasedOn,'',d).
+att_prop_i(2,20,'ATT_INITIAL_VALUE','',d).
+att_prop_i(2,20,'AttRegEx','',d).
+att_prop_i(2,20,'AttValidationFailedMsg','',d).
+att_prop_i(2,20,'DownloadOffline','0',d).
+att_prop_i(2,20,'VarServiceExtName','',d).
+att_prop_i(2,20,'FullName','EspectaculoAfiche',v).
+att_prop_i(2,8,'ExternalName','EspectaculoNombre',d).
+att_prop_i(2,8,'ExternalNamespace','ObligatorioFinal',d).
+att_prop_i(2,8,'EmptyAsNull','Yes',d).
+att_prop_i(2,8,idBasedOn,95,v).
+att_prop_i(2,8,'ATT_INITIAL_VALUE','',d).
+att_prop_i(2,8,'DB_NLS_SUPPORT','Yes',d).
+att_prop_i(2,8,'AttRegEx','',d).
+att_prop_i(2,8,'AttValidationFailedMsg','',d).
+att_prop_i(2,8,'DownloadOffline','0',d).
+att_prop_i(2,8,'VarServiceExtName','',d).
+att_prop_i(2,8,'FullName','EspectaculoNombre',v).
+att_prop_i(2,4,'ExternalName','LugarNombre',d).
+att_prop_i(2,4,'ExternalNamespace','ObligatorioFinal',d).
+att_prop_i(2,4,'EmptyAsNull','Yes',d).
+att_prop_i(2,4,idBasedOn,95,v).
+att_prop_i(2,4,'ATT_INITIAL_VALUE','',d).
+att_prop_i(2,4,'DB_NLS_SUPPORT','Yes',d).
+att_prop_i(2,4,'AttRegEx','',d).
+att_prop_i(2,4,'AttValidationFailedMsg','',d).
+att_prop_i(2,4,'DownloadOffline','0',d).
+att_prop_i(2,4,'VarServiceExtName','',d).
+att_prop_i(2,4,'FullName','LugarNombre',v).
+att_prop_i(2,19,'ExternalName','EspectaculoFecha',d).
+att_prop_i(2,19,'ExternalNamespace','ObligatorioFinal',d).
+att_prop_i(2,19,'EmptyAsNull','Yes',d).
+att_prop_i(2,19,idBasedOn,'',d).
+att_prop_i(2,19,'ATT_INITIAL_VALUE','',d).
+att_prop_i(2,19,'AttRegEx','',d).
+att_prop_i(2,19,'AttValidationFailedMsg','',d).
+att_prop_i(2,19,idDATEFORMAT,idDATEFORMAT_SHORT,d).
+att_prop_i(2,19,'DownloadOffline','0',d).
+att_prop_i(2,19,'VarServiceExtName','',d).
+att_prop_i(2,19,'FullName','EspectaculoFecha',v).
+att_prop_i(2,6,'ExternalName','TipoEspectaculoId',d).
+att_prop_i(2,6,'ExternalNamespace','ObligatorioFinal',d).
+att_prop_i(2,6,'EmptyAsNull','Yes',d).
+att_prop_i(2,6,idBasedOn,94,v).
+att_prop_i(2,6,'AUTONUMBER','-1',v).
+att_prop_i(2,6,'AUTONUMBER_START','1',d).
+att_prop_i(2,6,'AUTONUMBER_STEP','1',d).
+att_prop_i(2,6,'AUTONUMBER_FORREPLICATION','-1',d).
+att_prop_i(2,6,'ATT_INITIAL_VALUE','',d).
+att_prop_i(2,6,'AttRegEx','',d).
+att_prop_i(2,6,'AttValidationFailedMsg','',d).
+att_prop_i(2,6,'DownloadOffline','0',d).
+att_prop_i(2,6,'VarServiceExtName','',d).
+att_prop_i(2,6,'FullName','TipoEspectaculoId',v).
+att_prop_i(2,3,'ExternalName','LugarId',d).
+att_prop_i(2,3,'ExternalNamespace','ObligatorioFinal',d).
+att_prop_i(2,3,'EmptyAsNull','Yes',d).
+att_prop_i(2,3,idBasedOn,94,v).
+att_prop_i(2,3,'AUTONUMBER','-1',v).
+att_prop_i(2,3,'AUTONUMBER_START','1',d).
+att_prop_i(2,3,'AUTONUMBER_STEP','1',d).
+att_prop_i(2,3,'AUTONUMBER_FORREPLICATION','-1',d).
+att_prop_i(2,3,'ATT_INITIAL_VALUE','',d).
+att_prop_i(2,3,'AttRegEx','',d).
+att_prop_i(2,3,'AttValidationFailedMsg','',d).
+att_prop_i(2,3,'DownloadOffline','0',d).
+att_prop_i(2,3,'VarServiceExtName','',d).
+att_prop_i(2,3,'FullName','LugarId',v).
+att_prop_i(2,5,'ExternalName','EspectaculoId',d).
+att_prop_i(2,5,'ExternalNamespace','ObligatorioFinal',d).
+att_prop_i(2,5,'EmptyAsNull','Yes',d).
+att_prop_i(2,5,idBasedOn,94,v).
+att_prop_i(2,5,'AUTONUMBER','-1',v).
+att_prop_i(2,5,'AUTONUMBER_START','1',d).
+att_prop_i(2,5,'AUTONUMBER_STEP','1',d).
+att_prop_i(2,5,'AUTONUMBER_FORREPLICATION','-1',d).
+att_prop_i(2,5,'ATT_INITIAL_VALUE','',d).
+att_prop_i(2,5,'AttRegEx','',d).
+att_prop_i(2,5,'AttValidationFailedMsg','',d).
+att_prop_i(2,5,'DownloadOffline','0',d).
+att_prop_i(2,5,'VarServiceExtName','',d).
+att_prop_i(2,5,'FullName','EspectaculoId',v).
+att_prop_i(2,40000,'ExternalName','',d).
+att_prop_i(2,40000,'ExternalNamespace','',d).
+att_prop_i(2,40000,'EmptyAsNull','Yes',d).
+att_prop_i(2,40000,idBasedOn,'',d).
+att_prop_i(2,40000,'AUTONUMBER','0',d).
+att_prop_i(2,40000,'ATT_INITIAL_VALUE','',d).
+att_prop_i(2,40000,'AttRegEx','',d).
+att_prop_i(2,40000,'AttValidationFailedMsg','',d).
+att_prop_i(2,40000,'FullName','',v).
+ 
+tbl_prop_i(2,3,'AllDirSuper',[ [ 2,[ 3 ] ] ],v).
+tbl_prop_i(2,2,'DirSubor',[ [ 3,[ 3 ] ] ],v).
+tbl_prop_i(2,3,'DirSuper',[ [ 2,[ 3 ] ] ],v).
+ 
+tbl_att_prop_i(2,3,5,'AllowNulls',n).
+tbl_att_prop_i(2,3,5,'AUTONUMBER',y).
+tbl_att_prop_i(2,3,8,'AllowNulls',n).
+tbl_att_prop_i(2,3,19,'AllowNulls',n).
+tbl_att_prop_i(2,3,6,'AllowNulls',n).
+tbl_att_prop_i(2,3,3,'AllowNulls',n).
+tbl_att_prop_i(2,3,20,'AllowNulls',n).
+tbl_att_prop_i(2,3,40000,'AllowNulls',n).
+tbl_att_prop_i(2,2,3,'AllowNulls',n).
+tbl_att_prop_i(2,2,3,'AUTONUMBER',y).
+tbl_att_prop_i(2,2,4,'AllowNulls',n).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+pgm_callprotocol_i(proc,24,'LISTADOCONCIERTOSPORFECHA','HTTP','Secure').
+ 
+ 
+pgm_main_info_i(proc,24,'LISTADOCONCIERTOSPORFECHA',[ 41,'ALISTADOCONCIERTOSPORFECHA','Listado Conciertos Por Fecha','','','','HTTP' ]).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

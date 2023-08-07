@@ -1,0 +1,354 @@
+spec_i([ proc,25,'Aumentar Entradas','AumentarEntradas',78,spa,'18_0_3-171579' ]).
+ 
+struct_i(2,1,[],[]).
+struct_i(4,2,[ 5 ],[]).
+struct_i(3,2,[ 5 ],[]).
+ 
+level_i(2,[ 3,[ [ 3,many ] ],[],[],[ [ [ 3 ],[ 5 ] ] ],[ [ [ 3 ],[] ] ],[ 5 ],'IESPECTACULO',[ 3,[ [ [],'Espectaculoid',5 ] ] ],[] ]).
+level_i(4,[ 4,[ [ 4,many ] ],[],[],[ [ [ 4 ],[ 5,23 ] ] ],[ [ [ 4 ],[] ] ],[ 5 ],'IESPECTACULOSECTOR',[ 4,[ [ [],5,5 ] ] ],[] ]).
+level_i(3,[ 4,[ [ 4,many ] ],[],[],[ [ [ 4 ],[ 5,9,23 ] ] ],[ [ [ 4 ],[] ] ],[ 5,9 ],'IESPECTACULOSECTOR',[ 4,[ [ [],5,5 ],[ [],'Sectorid',9 ] ] ],[] ]).
+ 
+tw_i(2,[]).
+tw_i(4,[]).
+tw_i(3,[]).
+ 
+lwi_i(2,[ [ c([ t('.NOT.',8),t('null(',1),t('Espectaculoid',23),t(')',4) ],[]) ] ]).
+lwi_i(4,[ [] ]).
+lwi_i(3,[ [] ]).
+ 
+ 
+ 
+ 
+ta_i(2,[ [ [ 3,5 ] ] ]).
+ta_i(4,[ [ [ 4,5 ],[ 4,23 ] ] ]).
+ta_i(3,[ [ [ 4,5 ],[ 4,9 ],[ 4,23 ] ] ]).
+ 
+las_i(2,[ [ 5 ] ]).
+las_i(4,[ [ 5,23 ] ]).
+las_i(3,[ [ 5,9,23 ] ]).
+ 
+lac_i(2,[ [] ]).
+lac_i(4,[ [] ]).
+lac_i(3,[ [] ]).
+ 
+ 
+ 
+ 
+ 
+ 
+default_i(e('Output',2,2,'''FIL''')).
+ 
+rule_i(0,datastore(1,'DS_LAST_CHANGE','')).
+rule_i(0,datastore(1,'LOCK_RETRY','10')).
+rule_i(0,datastore(1,'WAIT_RECORD','0')).
+rule_i(0,datastore(1,'ISOLATION_LEVEL','CR')).
+rule_i(0,datastore(1,'SQLSERVER_VERSION','10')).
+rule_i(0,datastore(1,'COMMENT_ON','No')).
+rule_i(0,datastore(1,'DFT_TMP_TBLSPACE','')).
+rule_i(0,datastore(1,'DFT_IDX_TBLSPACE','')).
+rule_i(0,datastore(1,'DFT_TBL_TBLSPACE','')).
+rule_i(0,datastore(1,'DCL_REF_INT_DB','Yes')).
+rule_i(0,datastore(1,'PRIMARY_KEY_TYPE','PK')).
+rule_i(0,datastore(1,'CS_SCHEMA','')).
+rule_i(0,datastore(1,'SORT_ATTRIBUTES','Yes')).
+rule_i(0,datastore(1,'JRN400','QSQJRN')).
+rule_i(0,datastore(1,'CREATE_SAVF','Yes')).
+rule_i(0,datastore(1,'PGMLIB','')).
+rule_i(0,datastore(1,'DTALIB','')).
+rule_i(0,datastore(1,'RecycleRWMin','30')).
+rule_i(0,datastore(1,'RecycleRWType','1')).
+rule_i(0,datastore(1,'RecycleRW','-1')).
+rule_i(0,datastore(1,'POOL_STARTUP','No')).
+rule_i(0,datastore(1,'POOLSIZE_RW','10')).
+rule_i(0,datastore(1,'UnlimitedRWPool','-1')).
+rule_i(0,datastore(1,'PoolRWEnabled','-1')).
+rule_i(0,datastore(1,'CS_RPCPGML','')).
+rule_i(0,datastore(1,'DS_READ_REPLICA','No')).
+rule_i(0,datastore(1,'JDBC_DATASOURCE','')).
+rule_i(0,datastore(1,'USE_JDBC_DATASOURCE','0')).
+rule_i(0,datastore(1,'DS_DBMS_ADDINFO','Timeout=120')).
+rule_i(0,datastore(1,'USER_PASSWORD','uÜF\Y˜ê9â:gÌ2ÌNgsWR‡k')).
+rule_i(0,datastore(1,'USER_ID',uHbeh98wD0WsWTws)).
+rule_i(0,datastore(1,'TRUSTED_CONNECTION','No')).
+rule_i(0,datastore(1,'CS_CONNECT','First')).
+rule_i(0,datastore(1,'DBMS_PORT','')).
+rule_i(0,datastore(1,'CS_SERVER','trialapps3.genexus.com')).
+rule_i(0,datastore(1,'CS_DBNAME','Id211ffcfcef710b953a1a5ddd24cdc0e5')).
+rule_i(0,datastore(1,'CS_FLEDSNAME','')).
+rule_i(0,datastore(1,'CS_DRVNAME','sql server')).
+rule_i(0,datastore(1,'CS_DSNAME','')).
+rule_i(0,datastore(1,'DB_URL','')).
+rule_i(0,datastore(1,'JDBC_CUSTOM_URL','0')).
+rule_i(0,datastore(1,'JDBC_CUSTOM_DRIVER','')).
+rule_i(0,datastore(1,'JDBC_DRIVER','com.microsoft.sqlserver.jdbc.SQLServerDriver')).
+rule_i(0,datastore(1,'CONNECT_METHOD','OPSYS')).
+rule_i(0,datastore(1,'ACCESS_TECHNO','ADONET')).
+rule_i(0,datastore(1,'MAIN_DS','-1')).
+rule_i(0,datastore(1,'REORG_GEN','8')).
+rule_i(0,datastore(1,'HelpKeyword','20')).
+rule_i(0,datastore(1,'DBMS',12)).
+rule_i(0,datastore(1,'NAME','Default')).
+rule_i(0,prop(idNULLS_BEHAVIOR,idNB_Current)).
+rule_i(0,prop('PWFCallable','0')).
+rule_i(0,prop('ObjectVisibility','Public')).
+rule_i(0,prop('FullyQualifiedName','AumentarEntradas')).
+rule_i(0,prop('GenerateObject','-1')).
+rule_i(0,prop('CS_ORA_FORUPD','UMPV')).
+rule_i(0,prop('Optimize_copy','UMPV')).
+rule_i(0,prop('JOIN_TYPE','UMPV')).
+rule_i(0,prop('DBMS_JOINS','UMPV')).
+rule_i(0,prop('NULLVALUE_AS_NULL','UMPV')).
+rule_i(0,prop('INITIALIZE_NEW','UMPV')).
+rule_i(0,prop('STD_FUNC_OBJECT','Yes')).
+rule_i(0,prop('SPC_WARNINGS_DISABLED','spc0096 spc0107 spc0142')).
+rule_i(0,prop('TRNEND','Yes')).
+rule_i(0,prop('AUTOCENTER','UMPV')).
+rule_i(0,prop('LSTPFOOT','YES')).
+rule_i(0,prop('CANCEL','YES')).
+rule_i(0,prop('CONFIRM','UMPV')).
+rule_i(0,prop('TRNCFM','UMPV')).
+rule_i(0,prop('PRINT_CUST_LAYOUT','UMPV')).
+rule_i(0,prop('OUTPUT','FIL')).
+rule_i(0,prop(idConnectivitySupport,idInherit)).
+rule_i(0,prop(idISPRCWEBSERVICE,'0')).
+rule_i(0,prop('USE_ENCRYPTION','NO')).
+rule_i(0,prop('EXECUTE_IN_NEW_UTL','0')).
+rule_i(0,prop('Theme',o(102,'ObligatorioPrueba001'))).
+rule_i(0,prop('OBJECT_METADATA','')).
+rule_i(0,prop('CALL_PROTOCOL','INTERNAL')).
+rule_i(0,prop('IsMain','0')).
+rule_i(0,prop(sessiontype,'RW')).
+rule_i(0,prop('Folder',o(120,'Root Module'))).
+rule_i(0,prop('ObjDesc','Aumentar Entradas')).
+rule_i(0,prop('ObjName','AumentarEntradas')).
+rule_i(0,maingen(41)).
+rule_i(0,parm([ 'Espectaculoid','Sectorid','Porcentajeaumento' ],[])).
+rule_i(0,parmio([ [ 'Espectaculoid',in ],[ 'Sectorid',in ],[ 'Porcentajeaumento',in ] ])).
+rule_i(0,output('FIL')).
+ 
+a_i(1,1,f,'Err',[],[ [],[ t('0',3) ] ]).
+a_i(2,3,t,4,[],[ [ [ [],5,5 ],[ [],'Sectorid',9 ] ],'IESPECTACULOSECTOR',[] ]).
+a_i(3,4,t,4,[],[ [ [ [],5,5 ] ],'IESPECTACULOSECTOR',[] ]).
+a_i(4,2,t,3,[],[ [ [ [],'Espectaculoid',5 ] ],'IESPECTACULO',[] ]).
+ 
+v_i(f,i,1,[]).
+v_i(f,o,1,'Err').
+v_i(t,i,2,5).
+v_i(t,i,2,'Sectorid').
+v_i(t,o,2,9).
+v_i(t,o,2,23).
+v_i(t,i,3,5).
+v_i(t,o,3,23).
+v_i(t,i,4,'Espectaculoid').
+v_i(t,o,4,5).
+ 
+ 
+ 
+ 
+ 
+ 
+attri_i('Output',[ 'Gx_out',char,3,0,'',1,'','',16 ]).
+attri_i(9,[ 'SectorId',int,4,0,'ZZZ9',0,'Sector Id','',0 ]).
+attri_i(5,[ 'EspectaculoId',int,4,0,'ZZZ9',0,'Espectaculo Id','',0 ]).
+attri_i(23,[ 'SectorPrecio',int,6,0,'ZZZZZ9',0,'Sector Precio','',0 ]).
+attri_i('Errmsg',[ 'Gx_emsg',char,70,0,'',1,'Error text','',12 ]).
+attri_i('Err',[ 'Gx_err',int,3,0,'ZZ9',1,'Error code','',11 ]).
+attri_i('Sectorid',[ 'SectorId',int,4,0,'ZZZ9',0,'Sector Id','',10 ]).
+attri_i('Porcentajeaumento',[ 'PorcentajeAumento',int,4,0,'ZZZ9',0,'Porcentaje Aumento','',9 ]).
+attri_i('Espectaculoid',[ 'EspectaculoId',int,4,0,'ZZZ9',0,'Espectaculo Id','',8 ]).
+ 
+table_i(4,[ 'EspectaculoSector',[ 5,9,23 ],'Sector','EspectaculoSector' ]).
+table_i(3,[ 'Espectaculo',[ 5 ],'Espectaculo','Espectaculo' ]).
+ 
+index_i(4,[ 'IESPECTACULOSECTOR',u,[ 5,9 ],'IEspectaculoSector' ]).
+index_i(3,[ 'IESPECTACULO',u,[ 5 ],'IEspectaculo' ]).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+add_att_i(bits,2,40000,20,'EspectaculoAfiche_GXI',[ svchar,2048,0,0 ]).
+add_att_i(bits,2,40001,44,'LugarFoto_GXI',[ svchar,2048,0,0 ]).
+add_att_i(bits,2,40002,43,'PaisBandera_GXI',[ svchar,2048,0,0 ]).
+ 
+upd_i(3,4,u,[ [ 23 ],[],'IESPECTACULOSECTOR',[] ]).
+upd_i(4,4,u,[ [ 23 ],[],'IESPECTACULOSECTOR',[] ]).
+ 
+ 
+ 
+start_i(2,0,0,[ [ [ 5,23,'Espectaculoid',= ] ],one ]).
+start_i(4,0,0,[ [ [ 5,2,5,= ] ],many ]).
+start_i(3,0,0,[ [ [ 5,2,5,= ],[ 9,23,'Sectorid',= ] ],one ]).
+ 
+end_i(2,0,0,[ [ [ t(5,2),t(=,10),t('Espectaculoid',23) ] ] ]).
+end_i(4,0,0,[ [ [ t(5,2),t(=,10),t(5,23) ] ] ]).
+end_i(3,0,0,[ [ [ t(5,2),t(=,10),t(5,23) ],[ t(9,2),t(=,10),t('Sectorid',23) ] ] ]).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+dom_info_i(94,[ 'Id' ]).
+dom_info_i(95,[ 'Nombre' ]).
+ 
+ 
+break_i(3,nvg,2,[],[ [ 23 ],[ 9 ],[] ]).
+break_i(4,nvg,2,[],[ [ 23 ],[],[] ]).
+break_i(2,nvg,1,[],[ [],[ 5 ],[] ]).
+break_i(1,rpt,0,[],[ [],[],[] ]).
+ 
+b_group_i(1,1,lit,0,1,0).
+b_group_i(1,2,nvg,2,2,2).
+b_group_i(2,1,lit,0,3,3).
+b_group_i(2,2,nvg,3,6,6).
+b_group_i(3,1,lit,0,7,7).
+b_group_i(2,3,lit,0,10,7).
+b_group_i(2,4,nvg,4,11,11).
+b_group_i(4,1,lit,0,12,12).
+b_group_i(2,5,lit,0,14,10).
+b_group_i(1,3,lit,0,17,0).
+ 
+b_line_i(0,1,1,cmd,0,[]).
+b_line_i(1,1,1,cmd,0,[]).
+b_line_i(2,2,1,cmd,3,[ t('',121,2,0),t(table,3,2,10),t(3,3,2,10) ]).
+b_line_i(5,2,1,cmd,3,[ t('',109,5,0),t('.NOT.',8,3,5),t('null(',1,5,21),t('Sectorid',23,3,11),t(')',4,3,30) ]).
+b_line_i(6,3,1,cmd,7,[ t('',121,6,0),t(table,3,6,12),t(4,3,6,12) ]).
+b_line_i(8,3,1,cmd,7,[ t('',107,8,0),t(23,2,7,0),t(=,10,7,0),t(23,2,7,0),t(*,6,7,0),t('(',0,7,0),t('1',3,7,0),t(+,5,7,0),t('Porcentajeaumento',23,7,0),t(/,6,7,0),t('100',3,7,0),t(')',4,7,0) ]).
+b_line_i(9,3,1,cmd,7,[ t('',128,9,0) ]).
+b_line_i(10,2,3,cmd,7,[ t('',110,10,0) ]).
+b_line_i(11,4,1,cmd,12,[ t('',121,11,0),t(table,3,11,12),t(4,3,11,12) ]).
+b_line_i(12,4,1,cmd,12,[ t('',107,12,0),t(23,2,12,0),t(=,10,12,0),t(23,2,12,0),t(*,6,12,0),t('(',0,12,0),t('1',3,12,0),t(+,5,12,0),t('Porcentajeaumento',23,12,0),t(/,6,12,0),t('100',3,12,0),t(')',4,12,0) ]).
+b_line_i(13,4,1,cmd,12,[ t('',128,13,0) ]).
+b_line_i(14,2,5,cmd,10,[ t('',111,14,0) ]).
+b_line_i(15,2,5,cmd,10,[]).
+b_line_i(16,2,5,cmd,10,[ t('',128,16,0) ]).
+ 
+ 
+ 
+ 
+ 
+ 
+page_layout_i([ 66,0,6 ]).
+ 
+ 
+ 
+paper_info_i([ 0,256,'',11909,16834,0,0,0,0,1 ]).
+ 
+ppi_i([ 100,100 ]).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+warn_gen_i(msg([],spc0060,[ 'The program may be called by another program and the Commit on Exit property is set to YES' ])).
+ 
+ 
+ 
+ 
+grid_i(7,15).
+ 
+ 
+ 
+form_class_i(1,'Graphic').
+ 
+ 
+ 
+ 
+calling_main_i(33,2).
+ 
+att_prop_i(2,23,'ExternalName','SectorPrecio',d).
+att_prop_i(2,23,'ExternalNamespace','ObligatorioFinal',d).
+att_prop_i(2,23,'EmptyAsNull','Yes',d).
+att_prop_i(2,23,idBasedOn,'',d).
+att_prop_i(2,23,'AUTONUMBER','0',d).
+att_prop_i(2,23,'ATT_INITIAL_VALUE','',d).
+att_prop_i(2,23,'AttRegEx','',d).
+att_prop_i(2,23,'AttValidationFailedMsg','',d).
+att_prop_i(2,23,'DownloadOffline','0',d).
+att_prop_i(2,23,'VarServiceExtName','',d).
+att_prop_i(2,23,'FullName','SectorPrecio',v).
+att_prop_i(2,5,'ExternalName','EspectaculoId',d).
+att_prop_i(2,5,'ExternalNamespace','ObligatorioFinal',d).
+att_prop_i(2,5,'EmptyAsNull','Yes',d).
+att_prop_i(2,5,idBasedOn,94,v).
+att_prop_i(2,5,'AUTONUMBER','-1',v).
+att_prop_i(2,5,'AUTONUMBER_START','1',d).
+att_prop_i(2,5,'AUTONUMBER_STEP','1',d).
+att_prop_i(2,5,'AUTONUMBER_FORREPLICATION','-1',d).
+att_prop_i(2,5,'ATT_INITIAL_VALUE','',d).
+att_prop_i(2,5,'AttRegEx','',d).
+att_prop_i(2,5,'AttValidationFailedMsg','',d).
+att_prop_i(2,5,'DownloadOffline','0',d).
+att_prop_i(2,5,'VarServiceExtName','',d).
+att_prop_i(2,5,'FullName','EspectaculoId',v).
+att_prop_i(2,9,'ExternalName','SectorId',d).
+att_prop_i(2,9,'ExternalNamespace','ObligatorioFinal',d).
+att_prop_i(2,9,'EmptyAsNull','Yes',d).
+att_prop_i(2,9,idBasedOn,94,v).
+att_prop_i(2,9,'AUTONUMBER','0',v).
+att_prop_i(2,9,'ATT_INITIAL_VALUE','',d).
+att_prop_i(2,9,'AttRegEx','',d).
+att_prop_i(2,9,'AttValidationFailedMsg','',d).
+att_prop_i(2,9,'DownloadOffline','0',d).
+att_prop_i(2,9,'VarServiceExtName','',d).
+att_prop_i(2,9,'FullName','SectorId',v).
+ 
+tbl_prop_i(2,4,'AllDirSuper',[ [ 3,[ 5 ] ] ],v).
+tbl_prop_i(2,3,'DirSubor',[ [ 4,[ 5 ] ] ],v).
+tbl_prop_i(2,4,'DirSuper',[ [ 3,[ 5 ] ] ],v).
+ 
+tbl_att_prop_i(2,4,5,'AllowNulls',n).
+tbl_att_prop_i(2,4,9,'AllowNulls',n).
+tbl_att_prop_i(2,4,23,'AllowNulls',n).
+tbl_att_prop_i(2,3,5,'AllowNulls',n).
+tbl_att_prop_i(2,3,5,'AUTONUMBER',y).
+ 
+var_prop_i(2,'Espectaculoid',idBasedOn,'',v).
+var_prop_i(2,'Sectorid',idBasedOn,'',v).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+pgm_callprotocol_i(proc,25,'AUMENTARENTRADAS','INTERNAL','Secure').
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

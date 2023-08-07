@@ -1,0 +1,10 @@
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\web\bin\lugarespectaculowc.dll
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\web\bin\lugarespectaculowc.pdb
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\lugarespectaculowc\obj\Release\net6.0\lugarespectaculowc.csproj.AssemblyReference.cache
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\lugarespectaculowc\obj\Release\net6.0\lugarespectaculowc.GeneratedMSBuildEditorConfig.editorconfig
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\lugarespectaculowc\obj\Release\net6.0\lugarespectaculowc.csproj.CoreCompileInputs.cache
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\lugarespectaculowc\obj\Release\net6.0\lugarespectaculowc.csproj.CopyComplete
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\lugarespectaculowc\obj\Release\net6.0\lugarespectaculowc.dll
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\lugarespectaculowc\obj\Release\net6.0\refint\lugarespectaculowc.dll
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\lugarespectaculowc\obj\Release\net6.0\lugarespectaculowc.pdb
+C:\KBs\Obligatorio Taller ORT Cloud\Obligatorio Final\CloudNET002\build\lugarespectaculowc\obj\Release\net6.0\ref\lugarespectaculowc.dll

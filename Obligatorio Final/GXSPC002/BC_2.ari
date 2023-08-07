@@ -1,0 +1,7 @@
+bc_dt_elem_i([ 0,2,0 ],'Lugarid',allownulls,no).
+bc_dt_elem_i([ 0,2,0 ],'Lugarnombre',allownulls,no).
+bc_dt_elem_i([ 0,2,0 ],'Paisid',allownulls,no).
+bc_dt_elem_i([ 0,2,0 ],'Paisnombre',readonly,yes).
+bc_dt_elem_i([ 0,2,0 ],'Paisnombre',allownulls,no).
+bc_dt_elem_i([ 0,2,0 ],'Lugardireccion',allownulls,no).
+ 

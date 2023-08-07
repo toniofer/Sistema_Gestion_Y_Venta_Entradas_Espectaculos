@@ -1,0 +1,15 @@
+GeneXus.dll
+GxWebStd.cs
+GxWebServicesConfig.cs
+SoapParm.cs
+GxFullTextSearchReindexer.cs
+GxModelInfoProvider.cs
+@genexus.programs.sdt.bld
+type_SdtTipoEspectaculo.cs
+type_SdtInvitacion.cs
+type_SdtEntrada.cs
+type_SdtPais.cs
+type_SdtLugar.cs
+general\gxdomainpage.cs
+gxdomainpasetipo.cs
+gxdomaintipoproducto.cs

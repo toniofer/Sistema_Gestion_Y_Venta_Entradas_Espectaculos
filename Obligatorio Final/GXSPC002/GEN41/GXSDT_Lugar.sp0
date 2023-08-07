@@ -1,0 +1,98 @@
+ 
+spec_i([ sdt,[ 0,2,0 ],'Lugar','Lugar',0,spa,'18_0_3-171579' ]).
+ 
+struct_dt_i([ 0,2,0 ],name,'Lugar').
+struct_dt_i([ 0,2,0 ],namespace,'ObligatorioFinal').
+struct_dt_i([ 0,2,0 ],significantName,'Lugar').
+struct_dt_i([ 0,2,0 ],'ObjName','Lugar').
+struct_dt_i([ 0,2,0 ],'ObjDesc','Lugar').
+struct_dt_i([ 0,2,0 ],'ExternalName','Lugar').
+struct_dt_i([ 0,2,0 ],'ExternalNamespace','ObligatorioFinal').
+struct_dt_i([ 0,2,0 ],key,[ 3 ]).
+struct_dt_i([ 0,2,0 ],lvl,2).
+struct_dt_i([ 0,2,0 ],fullname,'Lugar').
+ 
+struct_dt_elem_i([ 0,2,0 ],1,name,'Lugarid').
+struct_dt_elem_i([ 0,2,0 ],1,camelname,'LugarId').
+struct_dt_elem_i([ 0,2,0 ],1,basedon,94).
+struct_dt_elem_i([ 0,2,0 ],1,length,4).
+struct_dt_elem_i([ 0,2,0 ],1,decimals,0).
+struct_dt_elem_i([ 0,2,0 ],1,sign,0).
+struct_dt_elem_i([ 0,2,0 ],1,type,[ 4,4,0 ]).
+struct_dt_elem_i([ 0,2,0 ],1,pic,'ZZZ9').
+struct_dt_elem_i([ 0,2,0 ],1,collection,'False').
+struct_dt_elem_i([ 0,2,0 ],1,attributeid,'3').
+struct_dt_elem_i([ 0,2,0 ],1,'ExternalName','LugarId').
+struct_dt_elem_i([ 0,2,0 ],1,'ExternalNamespace','ObligatorioFinal').
+struct_dt_elem_i([ 0,2,0 ],2,name,'Lugarnombre').
+struct_dt_elem_i([ 0,2,0 ],2,camelname,'LugarNombre').
+struct_dt_elem_i([ 0,2,0 ],2,basedon,95).
+struct_dt_elem_i([ 0,2,0 ],2,length,60).
+struct_dt_elem_i([ 0,2,0 ],2,decimals,0).
+struct_dt_elem_i([ 0,2,0 ],2,type,[ 5,60,0 ]).
+struct_dt_elem_i([ 0,2,0 ],2,pic,'').
+struct_dt_elem_i([ 0,2,0 ],2,collection,'False').
+struct_dt_elem_i([ 0,2,0 ],2,attributeid,'4').
+struct_dt_elem_i([ 0,2,0 ],2,'ExternalName','LugarNombre').
+struct_dt_elem_i([ 0,2,0 ],2,'ExternalNamespace','ObligatorioFinal').
+struct_dt_elem_i([ 0,2,0 ],3,name,'Lugarfoto').
+struct_dt_elem_i([ 0,2,0 ],3,camelname,'LugarFoto').
+struct_dt_elem_i([ 0,2,0 ],3,length,4).
+struct_dt_elem_i([ 0,2,0 ],3,decimals,0).
+struct_dt_elem_i([ 0,2,0 ],3,type,[ 7,4,0 ]).
+struct_dt_elem_i([ 0,2,0 ],3,pic,'').
+struct_dt_elem_i([ 0,2,0 ],3,collection,'False').
+struct_dt_elem_i([ 0,2,0 ],3,attributeid,'44').
+struct_dt_elem_i([ 0,2,0 ],3,'ExternalName','LugarFoto').
+struct_dt_elem_i([ 0,2,0 ],3,'ExternalNamespace','ObligatorioFinal').
+struct_dt_elem_i([ 0,2,0 ],4,name,'Lugarfoto_gxi').
+struct_dt_elem_i([ 0,2,0 ],4,camelname,'LugarFoto_GXI').
+struct_dt_elem_i([ 0,2,0 ],4,collection,'False').
+struct_dt_elem_i([ 0,2,0 ],4,isadd,'True').
+struct_dt_elem_i([ 0,2,0 ],4,length,2048).
+struct_dt_elem_i([ 0,2,0 ],4,decimals,0).
+struct_dt_elem_i([ 0,2,0 ],4,type,[ 13,2048,0 ]).
+struct_dt_elem_i([ 0,2,0 ],5,name,'Paisid').
+struct_dt_elem_i([ 0,2,0 ],5,camelname,'PaisId').
+struct_dt_elem_i([ 0,2,0 ],5,basedon,94).
+struct_dt_elem_i([ 0,2,0 ],5,length,4).
+struct_dt_elem_i([ 0,2,0 ],5,decimals,0).
+struct_dt_elem_i([ 0,2,0 ],5,sign,0).
+struct_dt_elem_i([ 0,2,0 ],5,type,[ 4,4,0 ]).
+struct_dt_elem_i([ 0,2,0 ],5,pic,'ZZZ9').
+struct_dt_elem_i([ 0,2,0 ],5,collection,'False').
+struct_dt_elem_i([ 0,2,0 ],5,attributeid,'1').
+struct_dt_elem_i([ 0,2,0 ],5,'ExternalName','PaisId').
+struct_dt_elem_i([ 0,2,0 ],5,'ExternalNamespace','ObligatorioFinal').
+struct_dt_elem_i([ 0,2,0 ],6,name,'Paisnombre').
+struct_dt_elem_i([ 0,2,0 ],6,camelname,'PaisNombre').
+struct_dt_elem_i([ 0,2,0 ],6,basedon,95).
+struct_dt_elem_i([ 0,2,0 ],6,length,60).
+struct_dt_elem_i([ 0,2,0 ],6,decimals,0).
+struct_dt_elem_i([ 0,2,0 ],6,type,[ 5,60,0 ]).
+struct_dt_elem_i([ 0,2,0 ],6,pic,'').
+struct_dt_elem_i([ 0,2,0 ],6,collection,'False').
+struct_dt_elem_i([ 0,2,0 ],6,attributeid,'2').
+struct_dt_elem_i([ 0,2,0 ],6,'ExternalName','PaisNombre').
+struct_dt_elem_i([ 0,2,0 ],6,'ExternalNamespace','ObligatorioFinal').
+struct_dt_elem_i([ 0,2,0 ],7,name,'Lugardireccion').
+struct_dt_elem_i([ 0,2,0 ],7,camelname,'LugarDireccion').
+struct_dt_elem_i([ 0,2,0 ],7,length,40).
+struct_dt_elem_i([ 0,2,0 ],7,decimals,0).
+struct_dt_elem_i([ 0,2,0 ],7,type,[ 5,40,0 ]).
+struct_dt_elem_i([ 0,2,0 ],7,pic,'').
+struct_dt_elem_i([ 0,2,0 ],7,collection,'False').
+struct_dt_elem_i([ 0,2,0 ],7,attributeid,'18').
+struct_dt_elem_i([ 0,2,0 ],7,'ExternalName','LugarDireccion').
+struct_dt_elem_i([ 0,2,0 ],7,'ExternalNamespace','ObligatorioFinal').
+struct_dt_elem_i([ 0,2,0 ],4,attributeid,'40000').
+ 
+ 
+ 
+ 
+ 
+ 
+module_info_i('GeneXus\Common','CSHARP_NAME_SPACE','GeneXus.Core').
+module_info_i('GeneXus\Common','AssemblyName','GeneXus.dll').
+module_info_i('GeneXus','CSHARP_NAME_SPACE','GeneXus.Core').
+module_info_i('GeneXus','AssemblyName','GeneXus.dll').

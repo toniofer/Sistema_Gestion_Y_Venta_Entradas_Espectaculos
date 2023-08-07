@@ -1,0 +1,13 @@
+domain_i(92,'general\gxdomainpage.cs').
+domain_i(96,'gxdomainpasetipo.cs').
+domain_i(98,'gxdomaintipoproducto.cs').
+ext_sdt_map_i(41,'GeneXus.dll',[ 0,1,0 ]).
+ext_sdt_map_i(41,'GeneXus.dll',[ 0,2,0 ]).
+ext_sdt_map_i(41,'GeneXus.dll',[ 0,4,0 ]).
+ext_sdt_map_i(41,'GeneXus.dll',[ 0,6,0 ]).
+ext_sdt_map_i(41,'GeneXus.dll',[ 0,7,0 ]).
+sdt_map_i(41,'Entrada',[ 0,4,0 ]).
+sdt_map_i(41,'Invitacion',[ 0,7,0 ]).
+sdt_map_i(41,'Lugar',[ 0,2,0 ]).
+sdt_map_i(41,'Pais',[ 0,1,0 ]).
+sdt_map_i(41,'TipoEspectaculo',[ 0,6,0 ]).
